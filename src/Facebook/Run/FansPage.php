@@ -35,7 +35,7 @@ class FansPage
 			print "Getting page timeline...\n\n\n";
 			$i = 1;
 			do {
-				print "Loading page ".$i++."...\n\n";
+				print "\nLoading page ".$i++."...\n";
 				$st = $this->fb->go($this->fp);
 				if ($pg = preg_match("/<a href=\"(.*)\">Show more/Usi", $st["out"], $mpg)) {
 					$pg = explode("<a href=\"", $mpg[1]);
@@ -68,7 +68,7 @@ class FansPage
 				unset($urls[0]);
 				$data = [];
 				foreach($urls as $url) {
-					print "Collecting data from ".str_replace("m.facebook", "www.facebook", $url)." ...";
+					print "[".date("Y-m-d H:i:s")."] Collecting data from ".str_replace("m.facebook", "www.facebook", $url)." ...";
 					$st = $this->fb->go($url);
 					$url = str_replace("m.facebook", "www.facebook", $url);
 					$text = null;
