@@ -26,7 +26,7 @@ trait HttpStream
 		}
 
 		if ($rewriteUrl) {
-			
+			$this->rewrite();
 		} else {
 			$this->noRewrite();
 		}

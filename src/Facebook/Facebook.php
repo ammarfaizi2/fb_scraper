@@ -18,7 +18,7 @@ class Facebook
 	/**
 	 * @var string
 	 */
-	private $prefix = "m";
+	public $prefix = "m";
 
 	/**
 	 * @var string
@@ -64,9 +64,7 @@ class Facebook
 	 */
 	public function login()
 	{
-		// $st = $this->go("https://{$this->prefix}.facebook.com/login.php?fl=1");
-		// file_put_contents("login.tmp", $st["out"]);
-		$st["out"] = file_get_contents("login.tmp");
+		$st = $this->go("https://{$this->prefix}.facebook.com/login.php?fl=1");
 		if (preg_match("/<form.+method=\"post\".+action=\"(.*)\".+>(.*)<\/form>/U", $st["out"], $m)) {
 			$action = self::se($m[1]);
 			if (preg_match_all("/<input type=\"hidden\".+>/U", $m[2], $m)) {

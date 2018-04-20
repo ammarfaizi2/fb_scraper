@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The Panda Spot</title>
+<meta name="referrer" content="origin-when-crossorigin" id="meta_referrer"/>
+<style type="text/css">
+/*<![CDATA[*/#timelineBody,.br .fr,.br .eq{background-color:#e9ebee;}.br .fr{position:relative;z-index:0;}.br .eq:before{background-image:linear-gradient(rgba(176, 179, 188, .88), rgba(180, 183, 192, 0));content:'';display:block;height:2px;left:0;position:absolute;right:0;top:0;}.br.b .fr{margin-top:0;padding-bottom:2px;padding-top:2px;}.br .ft{word-break:break-word;}.b .et{padding-bottom:0;}.es{padding:6px;}.b .fc{border:1px solid #90949c;border-radius:72px;height:45px;padding:4px 20px 0 20px;resize:none;}.eu{color:#1d2129;display:block;font-size:14px;margin-bottom:5px;}.fa{border-color:#90949c;box-sizing:border-box;width:100%;}.fa.fb{margin-top:6px;}.b .fe{height:45px;margin:6px 0 0 5px;width:75px;}.b .ex{border:1px solid #90949c;height:43px;margin:6px 4px;width:43px;}.cu{padding-left:8px;padding-right:8px;}.ew{padding-right:4px;}.fd{padding-left:4px;}.fg{margin-top:4px;}.go{background:#f6f7f9;}.er{background:#dddfe2;}.dh{background:#fff;}form{margin:0;border:0;}.b .z{border:0;border-collapse:collapse;margin:0;padding:0;width:100%;}.b .z.fk{width:auto;}.b .z tbody,.b .ev>tr>td,.b .ev>tbody>tr>td,.b .z td.ev{vertical-align:top;}.b .fl>tr>td,.b .fl>tbody>tr>td,.b .z td.fl{vertical-align:middle;}.b .z td{padding:0;}.b .z td.bi{padding:2px;}.b .z td.dk{padding:4px;}.b .z td.ed{padding:6px;}.b .bf{width:100%;}.ch{background:#eceff5;}.ey{-moz-appearance:none;border:0;margin:0;padding:0;}.bl{-moz-appearance:none;background:none;display:inline-block;font-size:12px;height:28px;line-height:28px;margin:0;overflow:visible;padding:0 9px;text-align:center;vertical-align:top;white-space:nowrap;}.b .bl{border-radius:2px;}.db,a.db,.b a.db,.b a.db:visited{background-color:#f6f7f9;color:#4b4f56;}.b a.db:hover,.b .db:hover{background-color:#e9ebee;color:#4b4f56;}.b .db{border:1px solid #bec2c9;}.bl[disabled] .dd{opacity:.3;}.db[disabled]{color:#bec2c9;}.b .db[disabled]:hover{background-color:#f6f7f9;color:#bec2c9;}.bn,a.bn,html .b a.bn{color:#fff;}.b .bn{background-color:#4267b2;border:1px solid #365899;}.b a.bn:hover,.b .bn:hover{background-color:#465e91;}.bn[disabled]{color:#899bc1;}.b .bn[disabled]:hover{background-color:#4267b2;}.da{font-size:14px;height:44px;line-height:44px;padding:0 20px;}.bl .t{display:inline-block;}.b .bl .t{display:inline-block;margin-top:0;vertical-align:middle;}.b a.bl::after,.b .bl.cy::after{content:"";display:inline-block;height:100%;vertical-align:middle;}html .bl .dd{vertical-align:top;}.bl .t{line-height:20px;margin-top:4px;}.bl .dd.du{margin-top:8px;}.bl .dd.de{margin-top:4px;}.bl.cy{padding-left:8px;}.bl.cy .dd{margin-right:6px;}.da .t{line-height:24px;margin-top:10px;}.da .dd.du{margin-top:16px;}.da .dd.de{margin-top:12px;}.da.cy{padding-left:24px;padding-right:24px;}.da.cy .dd{margin-right:10px;}.b .bl{padding:0 8px;}.b a.bl{height:26px;line-height:26px;}.b .da{padding:0 19px;}.b a.da{font-size:14px;height:42px;line-height:42px;}.b a.bl .dd.du{margin-top:7px;}.b a.bl .dd.de{margin-top:3px;}.b a.da .dd.du{margin-top:15px;}.b a.da .dd.de{margin-top:11px;}.b .bl.cy{padding-left:7px;}.b .da.cy{padding-left:23px;padding-right:23px;}.dd,.o.dd{display:inline-block;pointer-events:none;vertical-align:middle;}.t{pointer-events:none;}.gc{color:#4b4f56;}.gt{font-size:12px;line-height:16px;}.gr{font-size:14px;line-height:20px;}.bk{font-weight:normal;}.gd{font-weight:bold;}.fh{display:inline-block;}.fi{width:100%;}.ej{color:gray;}.cq{color:#fff;}.k{font-size:small;}body,tr,input,textarea,.f{font-size:medium;}.o{border:0;display:inline-block;vertical-align:top;}i.o u{position:absolute;width:0;height:0;overflow:hidden;}.fj{display:inline-block;}.fj .fp{display:block;font-size:small;white-space:normal;}.fm,.fn.o{cursor:pointer;display:block;}.b .fj a.fp,.fj .fp{color:#4b4f56;font-weight:bold;text-align:left;}.b .fj a.fp:hover,.b .fj a.fp:focus,.fj .fp:hover,.fj .fp:focus{background:#4b4f56;color:#fff;}.b .fj a.fm:hover,.b .fj a.fm:focus,.fj .fm:hover,.fj .fm:focus{background:inherit;}.b .ep{padding:0;}.b .bi{padding:2px;}.b .dk{padding:4px;}.b .ed{padding:6px;}.fo{-moz-appearance:none;background-color:transparent;border:0;display:inline;font-size:inherit;margin:0;padding:0;}.fo:hover{background-color:#3b5998;color:#fff;white-space:normal;}.fq{color:#3b5998;}.br .bu .cr{padding-bottom:7px;}.br.b .bu .cr{padding-bottom:0;}.bt{background-color:#dddfe2;-moz-user-select:text;}.bv.bu .t{display:inline;}.dn,.dn a{font-weight:normal;}.bw{position:relative;}.b .bw{height:118px;}.b .bw.bx{background-color:#162643;height:68px;}.by{bottom:0;left:0;pointer-events:none;position:absolute;margin-bottom:18px;top:auto;width:100%;}.b .by{margin-bottom:9px;}.bz{margin-left:12px;position:relative;width:74px;}.cc i{border:2px solid #fff;}.cc{pointer-events:auto;}.ci{bottom:0;color:#fff;font-weight:normal;margin-bottom:1px;padding-left:7px;padding-right:28px;position:absolute;right:0;text-shadow:#000000 0 1px;word-wrap:break-word;}.b .ci{padding-right:8px;}.b .ci{left:67px;}.ck{font-size:26px;font-weight:lighter;line-height:30px;margin-bottom:4px;margin-top:4px;}.cj{font-weight:lighter;}.b .cl{display:block;float:left;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}.cm{position:absolute;white-space:no-wrap;}.b .cm{float:right;position:absolute;}.cn{position:relative;}.b .co{clear:both;margin-top:33px;overflow:hidden;position:relative;text-overflow:ellipsis;white-space:nowrap;}.cp{pointer-events:auto;}.cw{position:relative;}.b .cw .cx{border-bottom:1px solid #e5e5e5;table-layout:fixed;}.b .cw .cx .cz:hover{background-color:#e9ebee;}.b .cw .cx .cz{background-color:#fff;border:none;border-radius:0;height:50px;line-height:14px;overflow:hidden;padding:0;text-overflow:ellipsis;white-space:nowrap;width:100%;}.b .cw .cx .cz{font-size:medium;font-weight:normal;}.b .cw .cx .dd.dc{display:block;height:20px;margin-bottom:-14px;margin-left:auto;margin-right:auto;margin-top:6px;width:20px;}.b .cw .cx .cz .t{height:auto;line-height:14px;}.dt{line-height:14px;}.dx{border-bottom:0;}.dy{padding-top:8px;position:relative;}.eb{margin:0 8px 0 12px;position:relative;}.eh{font-size:12px;font-weight:bold;overflow:hidden;}.cm{vertical-align:middle;}.cn{left:-2px;position:relative;}.v{background-color:#3b5998;}.dr{color:#4b4f56;font-family:Helvetica, Arial, sans-serif;}.b .dr{font-size:medium;}.b .dl:hover .dr{color:#fff;}.b .dl{font-size:medium;}.di{border-bottom:1px solid #bec2c9;border-top:1px solid #ccc;}.di>:first-child,.di>div{border-bottom:1px solid #e5e5e5;}.di>:last-child{border-bottom:0 none;}.w{padding:2px 3px;}.dg{padding:4px 3px;}.b .dp.dq{max-width:0;}.b .dj{display:block;}.b .dp,.b .dj{vertical-align:middle;}.dm{flex:1;height:100%;}.ds,.b td.dp.ds{padding-left:5px;}.do{min-height:24px;}.b a,.b a:visited{color:#3b5998;text-decoration:none;}.b .bq,.b .bq:visited{color:#fff;}.b a:focus,.b a:hover{background-color:#3b5998;color:#fff;}.b .bq:focus,.b .bq:hover{background-color:#fff;color:#3b5998;}.b .cs{background-color:#fff;}.ct{background:#4080ff;padding:15px;text-align:center;}.ct .cv{color:#fff;font-size:14px;text-transform:uppercase;vertical-align:middle;}.ct .o{margin-bottom:2px;vertical-align:middle;}.cg{background:#f2f2f2;}.cd:hover .cg{background:none;}.dz .ea{display:inline-block;margin-right:4px;}.b .dz .ea{float:left;}.b .dz .ee{display:table-cell;}.b .ec{border-collapse:collapse;margin:0;width:100%;}.b td.eg{border:0;padding:6px 0 6px 6px;vertical-align:middle;}.b .ef{padding:6px;}.ek{clear:both;}.el.em{background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/yS5EgzeTmbC.png);background-repeat:no-repeat;background-size:auto;background-position:-1px -104px;}#mEventSchedulableWall,#m_profile_stream,#m_newsfeed_stream,#root{position:relative;z-index:0;}.em{display:inline-block;height:13px;margin-left:4px;vertical-align:0;width:13px;}.fz{margin:0 6px 6px;padding:6px;}.b .fz .fz{border-color:#e9ebee;margin:6px 0 0;}.gi{display:inline-block;}.gh{margin-top:5px;}.gg,.gk{margin:5px 0;}.fz a,.fz a:visited{color:#2b55ad;}.fz a:hover,.fz a:focus{background:#2b55ad;color:#fff;}.fx{font-size:small;}.fv{list-style:none;margin:0;padding:0;}.fy{border-color:#ccced3 #c4c6ca #b4b6ba;border-style:solid;border-width:1px;}.gf{font-size:small;}.gb{position:relative;}.gz{position:relative;}.gz:after{border:1px solid rgba(0, 0, 0, .1);bottom:0;content:'';left:0;position:absolute;right:0;top:0;}.gy .ha{background:#f2f2f2;display:inline-block;margin:0 3px 3px 0;}.gy .ha.hb{margin-right:0;}.gp{border:1px solid #ccc;margin:5px 0;word-wrap:break-word;}.b .gp .gq{padding-right:4px;}.gm{display:block;}.b .gm,.b .gm:visited{color:#3e4350;}.b .gm:focus,.b .gm:hover,.b .gm:focus .gp,.b .gm:hover .gp{background:#3b5998;color:#fff;}.fx .gs{font-size:small;}.gj{white-space:nowrap;}.gw{display:inline-block;margin-right:3px;vertical-align:middle;}body{text-align:left;direction:ltr;}body,tr,input,textarea,button{font-family:sans-serif;}body,p,figure,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dd,dt{margin:0;padding:0;}h1,h2,h3,h4,h5,h6{font-size:1em;font-weight:bold;}ul,ol{list-style:none;}article,aside,figcaption,figure,footer,header,nav,section{display:block;}.e #viewport{margin:0 auto;max-width:600px;}#page{position:relative;}.l img{padding-left:5px;padding-top:4px;}.l{display:inline-block;padding:3px 0 0 5px;vertical-align:middle;}.b a.n,.b a.n:focus,.b a.n:hover,.b a.n:visited,a.n,a.n:focus,a.n:hover,a.n:visited{background:none;color:#fff;cursor:pointer;padding:0;text-decoration:none;}.p{display:table-cell;padding:4px 5px 4px 5px;text-align:right;vertical-align:middle;}.h{display:table;width:100%;}.m{padding:0 0 0 0;}.i{background-color:#1d2129;color:#fff;padding-top:2px;width:100%;}.j{display:table-cell;padding-bottom:2px;padding-left:6px;padding-top:1px;padding-top:2px;position:relative;vertical-align:middle;width:100%;}.be,.be.o{display:block;}.bb{display:block;}.bc{height:20px;width:20px;}.x{background:#3b5998;padding:0 4px 4px;height:22px;}.x.x .bj{background:#fff;border:1px solid #243872;box-sizing:border-box;font-size:small;height:22px;margin:0;width:100%;}.y.x{padding:1px 1px 3px;}.x .bd{padding:1px 3px 0 0;}.x.x.x .bm{background:#627aba;border:1px solid #2e417e;color:#fff;font-size:x-small;font-weight:normal;height:22px;line-height:20px;margin-left:3px;}.bh{border:0;display:block;margin:0;padding:0;}.hc{font-size:small;padding:7px 8px 8px;}.hr{display:block;margin-top:8px;padding:2px;text-align:center;}.hp{display:block;font-size:x-small;margin:-3px -3px 1px -3px;padding:3px;}.b .hc td.ho{padding-right:4px;}.b .hc td.hq{padding-left:4px;}.hc.hd{background-color:#4b4f56;}.hd{border-top:1px solid #4b4f56;color:#bec2c9;}.hd .hr{border:1px solid #bec2c9;color:#bec2c9;}.b .hd a,.b .hd a:visited{color:#bec2c9;}.b .hd a:focus,.b .hd a:hover{background:#dddfe2;color:#1d2129;}.hd .hr:focus,.hd .hr:hover{background:#dddfe2;border:1px solid #dddfe2;color:#1d2129;}.hf{margin-bottom:8px;}.hc.hd .hf>table{background:#d3d7dc;border:1px solid #4b4f56;}.hk{background:#d3d7dc;}.he .hn{height:24px;line-height:24px;margin-left:2px;}.hh{background:#fff;}.he .hl{background-color:transparent;color:#4b4f56;display:block;padding:0;width:100%;}.hi .o{display:block;}.he .hg .hm{padding:2px;}.he .hg .hi{padding:4px;}.b .he .hg{border:1px solid #90949c;}.s,.b .s{border-radius:2px;display:inline-block;height:25px;line-height:26px;overflow:visible;padding:0 9px;text-align:center;vertical-align:middle;white-space:nowrap;}.r,.b a.r,.b a.r:hover,.b .r,.b .r:hover{background:#b22ec0;color:#fff;font-size:12px;}.bo{padding-bottom:1px;}.bp{display:inline-block;font-size:small;padding:2px 4px 2px;}/*]]>*/
+</style>
+<link rel="canonical" href="https://www.facebook.com/ThePandaSpot"/>
+<meta name="description" content="The Panda Spot. 1.1K likes. Es teh terasa segar ketika masuk ke mulut. Mengutamakan kesegaran pelanggan"/>
+</head>
+<body tabindex="0" class="b c d e">
+<div class="f">
+	<div id="viewport">
+		<div class="g" id="toggleHeader">
+			<div id="toggleHeaderContent" class="h">
+				<div class="i">
+					<div class="j">
+						<span class="k">You&#039;re in Data Mode</span>
+						<div class="l m">
+							<a href="/zero/toggle/settings/?ref_source=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;ext=1524424174&amp;hash=AeSWZnaaUvCmYQAK&amp;refid=17" class="n"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yc/r/Lrc0F6s2Cff.png?_nc_eui2=v1%3AAeFzJErCJ9iCEjpqgL4296CX8DMawLX1xlj3QVToLIcaKc5PL8tiETLx1Ix70KtchPjqzLO3dY5_rwZAeSICamNyQYdSAlPkXCtj4I0WxVavcRWxYJ0SehOvup901G-2xU4" width="14" height="14" class="o" style="vertical-align: baseline"/></a>
+						</div>
+					</div>
+					<div class="p">
+						<a href="/zero/toggle/switch/?ref_source=%2Fhome.php&amp;location=toggle_banner&amp;ext=1524424174&amp;hash=AeTDylFlfzH5hwvR&amp;refid=17" class="q r s"><span class="t">Go to Free</span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="u">
+			<div class="v w" role="banner" id="header">
+				<form method="get" action="/search/" class="x y">
+					<input type="hidden" name="refid" value="17"/><input type="hidden" name="search" value="Search"/><input type="hidden" name="search_source" value="top_nav"/>
+					<table class="z" role="presentation">
+					<tbody>
+					<tr>
+						<td class="ba">
+							<a class="bb bc bd" href="/home.php?ref_component=mbasic_home_logo&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/ym/r/Gjhrhb7r0lb.png?_nc_eui2=v1%3AAeEEpPah-1TbkTMMaKR_ClJnFoVIehhdfvP7S1E8JGwVqOQMBrufWK9bX0NpHXrxzGoeFz7g7o6sJAOssDIq9deGZFGiNa9AR_IPgGfYa3yPJORCpN_yiCdClY0JhpSzhKQ" width="20" height="20" class="be o" alt="Facebook logo"/></a>
+						</td>
+						<td class="bf bg">
+							<input class="bh bi bj" name="query" placeholder="Search Facebook" autocomplete="off" autocorrect="off" spellcheck="false" type="text"/>
+						</td>
+						<td class="ba">
+							<input value="Search" type="submit" class="q bk bl bm bn"/>
+						</td>
+					</tr>
+					</tbody>
+					</table>
+				</form>
+				<div role="navigation" class="bo">
+					<a href="/home.php?ref_component=mbasic_home_header&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17" class="bp bq">Home</a><a href="/louvian.lyndal.1?ref_component=mbasic_home_header&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17" class="bp bq">Profile</a><a accesskey="2" href="/friends/center/mbasic/?fb_ref=tn&amp;sr=1&amp;ref_component=mbasic_home_header&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17" class="bp bq">Friends<span aria-label="112 new requests">(112)</span></a><a accesskey="4" href="/messages/?ref_component=mbasic_home_header&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17" class="bp bq">Messages</a><a accesskey="3" href="/notifications.php?ref_component=mbasic_home_header&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17" class="bp bq">Notifications</a><a accesskey="6" href="/buddylist.php?ref_component=mbasic_home_header&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17" class="bp bq">Chat</a>
+					<div class="bp" style="display:block;height:0;overflow:hidden;position:absolute;width:0;padding:0">
+						<a href="/groups/?category=membership&amp;a_type=sr&amp;refid=17" aria-label="Groups, 26 unseen posts" tabindex="-1">&nbsp;</a><a href="/events/?a_type=sr&amp;refid=17" aria-label="Events" tabindex="-1">&nbsp;</a><a href="/notes/?a_type=sr&amp;refid=17" aria-label="Notes" tabindex="-1">&nbsp;</a><a href="/saved/?a_type=sr&amp;refid=17" aria-label="Saved" tabindex="-1">&nbsp;</a><a href="/settings/?a_type=sr&amp;refid=17" aria-label="Settings &amp; privacy" tabindex="-1">&nbsp;</a><a href="/help/?a_type=sr&amp;refid=17" aria-label="Help" tabindex="-1">&nbsp;</a>
+					</div>
+					<a accesskey="5" href="/menu/bookmarks/?ref_component=mbasic_home_header&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17" class="bp bq">Menu</a>
+				</div>
+			</div>
+		</div>
+		<div id="objects_container">
+			<div id="root" role="main">
+				<div class="br b bs">
+					<div class="bt bu bv" id="m-timeline-cover-section">
+						<div class="bw bx">
+							<div class="by">
+								<div class="bz">
+									<div class="ca cb cc">
+										<a href="/ThePandaSpot/photos/a.175253635975524.1073741824.175251879309033/790411047793110/?type=3&amp;source=45&amp;refid=17" class="cd ce" title="Profile picture of The Panda Spot"><img src="https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.0-1/cp0/e15/q65/p50x50/17523707_790411047793110_1603601222212860165_n.jpg?_nc_cat=0&amp;efg=eyJpIjoiYiJ9&amp;_nc_eui2=v1%3AAeFkWbWvQ-s18BBU1PAB_uS62LxJdQhL1gxxWwqP7YH07xCt1opqUmG49XIz8AOBCIE-hKvEZaoq2MjRccMVB30p7lI5Dl82qIiSyYaRiKz_Jf09EbHAmqNSoxRk9PhlXkE&amp;oh=d00ad25fbc08d5aa3061610ce7ab69ed&amp;oe=5B4F51A9" width="50" height="50" class="cf cg ch o" alt="Profile picture of The Panda Spot"/></a>
+									</div>
+								</div>
+								<div class="ci">
+									<h1 class="cj" id="u_0_a">
+									<div class="ck">
+										<span class="cl">The Panda Spot</span><span class="cm" id="u_0_b"><span class="cn"></span></span>
+									</div>
+									</h1>
+									<div class="co cp">
+										<a><span class="k cq">&#064;ThePandaSpot</span></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="cr" id="sub_profile_pic_content">
+							<div>
+								<div class="cs">
+									<div id="pages_call_to_action">
+										<a href="/messages/thread/175251879309033/?entrypoint=web%3Atrigger%3Afb_page_cta_page_primary_button&amp;refid=17&amp;__xts__%5B0%5D=38.%7B%22user_id%22%3A100023442999051%2C%22page_id%22%3A175251879309033%2C%22surface%22%3A%22coverPhoto%22%2C%22ccta_type%22%3A%22MESSAGE%22%2C%22ccta_id%22%3A790412621126286%2C%22event_name%22%3A%22custom_cta_mobile_tapped_cta%22%7D&amp;__tn__=%2CJ" data-ft="&#123;&quot;tn&quot;:&quot;,J&quot;&#125;" id="u_0_c">
+										<div class="ct">
+											<span class="cu cv">Send Message</span>
+										</div>
+										</a>
+									</div>
+								</div>
+								<div class="cw">
+									<table class="z cx" role="presentation">
+									<tbody>
+									<tr>
+										<td class="bf" style="width:25%">
+											<a href="/a/profile.php?fan&amp;id=175251879309033&amp;origin=page_profile&amp;pageSuggestionsOnLiking=1&amp;expandFriendInviterOnLiking=1&amp;gfid=AQAjLztJMEQmBN23&amp;refid=17" class="cy q bl cz da db bk"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/0clZmO93ip3.png?_nc_eui2=v1%3AAeEyCX6QIKtNFkX2LQTccdzmBOdPQw3AC6GvYbrzq7walejq_wVqkQzvmnjaYQOz5HJpxnby8xQmZEmfjV7o7TPQRVnEy9ogXKXpmK-ovHdHid9TssepCLw5TJoJsMlW4dY" width="20" height="20" class="dc dd de o" alt=""/><span class="t">Like</span></a>
+										</td>
+										<td class="bf" style="width:25%">
+											<a href="/a/subscriptions/add?subject_id=175251879309033&amp;forceredirect&amp;location=141&amp;gfid=AQBvWsIva3QLzV2u&amp;refid=17" class="cy q bl cz da db bk" id="pages_follow_action_id"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/srxCsTkinSV.png?_nc_eui2=v1%3AAeGWcL9T_gc-kl2i-9QK4CNyPHiSYo778Mc2kjnVwLS99qUAh7oectFbuicoJpSn6dD_4P0TYyvInSl3rVz35irNt2DnKvhpS44PGw81NwzkNmDT8njb25Ff8DE3brO1mz0" width="20" height="20" class="dc dd de o" alt=""/><span class="t">Follow</span></a>
+										</td>
+										<td class="bf" style="width:25%">
+											<a href="/messages/thread/175251879309033/?entrypoint=web%3Atrigger%3Apage_profile_message_button&amp;refid=17" class="cy q bl cz da db bk"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/m6r_g98IWVI.png?_nc_eui2=v1%3AAeGuj7AXwUkWIkPpCYWf6quXAvEcd8b4Ljn0VWQegSxlIM4CbbpwjNKSkwprYKB5Pb0z2yZ3CcYCZtVXmaUsNH30whYQ_42Djzbx7X5kXPbgNS4ZMguQNFrHwNryVjXFG70" width="20" height="20" class="dc dd de o" alt=""/><span class="t">Message</span></a>
+										</td>
+										<td class="bf" style="width:25%">
+											<a href="/pages/more/175251879309033/?refid=17" class="cy q bl cz da db bk"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/nvOIeX7cx_l.png?_nc_eui2=v1%3AAeG98v_XFK8ifG6_MA98JUwllhMEDLDo36RShmLFcp4NAyABmvEVgx_cqbzYSCus2_-aoJmSl9tewtvXpp9PFLJfII7v41XJijsvKT7gIel5tqDxLMUNY5x7z6pSV8rEqsg" width="20" height="20" class="dc dd de o" alt=""/><span class="t">More</span></a>
+										</td>
+									</tr>
+									</tbody>
+									</table>
+								</div>
+								<div class="df dg">
+									<div class="dh di" id="u_0_d">
+										<a class="dj dk dl" href="/ThePandaSpot/about?refid=17">
+										<table class="z dm dn do" role="presentation">
+										<tbody>
+										<tr>
+											<td class="bf dp dq">
+												<div class="dr">
+													About
+												</div>
+											</td>
+											<td class="ba dp ds">
+												<div class="dt">
+													<img src="https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/4d589n-Ut4y.png?_nc_eui2=v1%3AAeEy1VycFi4q0zcsZ1-bhoFXGEdtTOYR2q6UmJfVJa91NZ5-EqkIWmmGd7OpP6TYpB16kx_Oe7VTxBEpRcmNF8LUZ4Jg75gARI_8QUcpee-Sr3W25KX7-wDZdg_Ko6mNnw0" width="12" height="12" class="du o" role="presentation"/>
+												</div>
+											</td>
+										</tr>
+										</tbody>
+										</table>
+										</a>
+										<div class="bi dv" id="u_0_e">
+											<div class="bi dw">
+												<span>Es teh terasa segar ketika masuk ke mulut. Mengutamakan kesegaran pelanggan</span>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="df dg">
+									<div class="dh di">
+										<div class="dk dl">
+											<table class="z dm dn do" role="presentation">
+											<tbody>
+											<tr>
+												<td class="bf dp dq">
+													<div class="dr">
+														People also like
+													</div>
+												</td>
+											</tr>
+											</tbody>
+											</table>
+										</div>
+										<div class="dx">
+											<div>
+												<div class="dy">
+													<div class="dz">
+														<a class="ea" href="/GAMBAR.DP.BBM.LUCU.BERGERAK/?refid=17">
+														<div class="eb">
+															<img src="https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.0-1/cp0/e15/q65/p43x43/17991930_1364359613654786_980423491745249985_n.png.jpg?_nc_cat=0&amp;efg=eyJpIjoiYiJ9&amp;_nc_eui2=v1%3AAeGuggnhYyTgwB9ILkFSWa0bky2bOrbyL_-cPasM7QAEE7wJ4kq2UkXi67XebPkKmvSyBExTipV8XnZk4K1TCIJkRTDuA2B4_--JN8P2RBsQNN5ZDenKTKMyNIAxwDZRP9g&amp;oh=48deed4f87d55b27c70a6f82d046b8dd&amp;oe=5B6EA606" width="42" height="42" class="ch o" alt="Kumpulan Gambar DP BBM,Kata Mutiara Bijak Puisi Pantun Kata2 Lucu Terbaru"/>
+														</div>
+														</a>
+														<table class="ec ed ee">
+														<tr>
+															<td class="bf ef eg">
+																<div>
+																	<div class="eh">
+																		<a class="ei" href="/GAMBAR.DP.BBM.LUCU.BERGERAK/?refid=17">Kumpulan Gambar DP BBM,Kata Mutiara Bijak Puisi Pantun Kata2 Lucu Terbaru</a>
+																	</div>
+																	<a href="https://mobile.facebook.com/search/112443315439700/places-in/2201/places/intersect/?refid=17"><span class="k ej">Product/service</span></a>
+																</div>
+															</td>
+														</tr>
+														</table>
+														<div class="ek">
+														</div>
+													</div>
+												</div>
+											</div>
+											<div>
+												<div class="dy">
+													<div class="dz">
+														<a class="ea" href="/tulisansederhana123/?refid=17">
+														<div class="eb">
+															<img src="https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.0-1/cp0/e15/q65/p43x43/21767957_2015867508699967_6477936537494210363_n.jpg?_nc_cat=0&amp;efg=eyJpIjoiYiJ9&amp;_nc_eui2=v1%3AAeFdzBbufGQnY9SZxd8W-NOPZdkBxcTzeCPeiURuSTvBsSxXFTa4BrK1lFfAwJQcXU5JaOJCQgCJ-E6y2F8U_Yt15IDSbWJywsRqC-iU6rYe6jmQZ2QCGHT2PzNIwfXxwQU&amp;oh=69994e85d8d15db808dc07c04c0a84e2&amp;oe=5B65A2BC" width="42" height="42" class="ch o" alt="Tulisan Sederhana"/>
+														</div>
+														</a>
+														<table class="ec ed ee">
+														<tr>
+															<td class="bf ef eg">
+																<div>
+																	<div class="eh">
+																		<a class="ei" href="/tulisansederhana123/?refid=17">Tulisan Sederhana</a>
+																	</div>
+																	<span class="k ej">Personal blog</span>
+																</div>
+															</td>
+														</tr>
+														</table>
+														<div class="ek">
+														</div>
+													</div>
+												</div>
+											</div>
+											<div>
+												<div class="dy">
+													<div class="dz">
+														<a class="ea" href="/CapPandaID/?refid=17">
+														<div class="eb">
+															<img src="https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.0-1/cp0/e15/q65/p43x43/29432204_1748684198503976_3204520274011619328_n.jpg?_nc_cat=0&amp;efg=eyJpIjoiYiJ9&amp;_nc_eui2=v1%3AAeHbCqgWtVBhvKKtAUun6gc8WYy4LLgAkI3V-pTELsYDOS3HfhJPdeU5lTs9GeuOC9LzKNdDmfagVhx5hcWJdzqgX_bDOrzO_orxlcUrQzWqreGCLQtlbfdsoyz4MkPVwuE&amp;oh=e0d9531ad028d41e7abf2f64e68f32f3&amp;oe=5B71624B" width="42" height="42" class="ch o" alt="Cap Panda"/>
+														</div>
+														</a>
+														<table class="ec ed ee">
+														<tr>
+															<td class="bf ef eg">
+																<div>
+																	<div class="eh">
+																		<a class="ei" href="/CapPandaID/?refid=17">Cap Panda</a><span class="cm"><span class="cn"><span class="el em en eo" role="img" aria-label="Verified Page" id="u_0_f"></span></span></span>
+																	</div>
+																	<a href="https://mobile.facebook.com/search/102173726491792/places-in/2252/places/intersect/?refid=17"><span class="k ej">Food and drinks company</span></a>
+																</div>
+															</td>
+														</tr>
+														</table>
+														<div class="ek">
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="df dg">
+									<div class="dh di">
+										<a class="dj dk dl" href="/ThePandaSpot/photos/?refid=17">
+										<table class="z dm dn do" role="presentation">
+										<tbody>
+										<tr>
+											<td class="bf dp dq">
+												<div class="dr">
+													Photos
+												</div>
+											</td>
+											<td class="ba dp ds">
+												<div class="dt">
+													<img src="https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/4d589n-Ut4y.png?_nc_eui2=v1%3AAeEy1VycFi4q0zcsZ1-bhoFXGEdtTOYR2q6UmJfVJa91NZ5-EqkIWmmGd7OpP6TYpB16kx_Oe7VTxBEpRcmNF8LUZ4Jg75gARI_8QUcpee-Sr3W25KX7-wDZdg_Ko6mNnw0" width="12" height="12" class="du o" role="presentation"/>
+												</div>
+											</td>
+										</tr>
+										</tbody>
+										</table>
+										</a>
+									</div>
+								</div>
+								<div class="df dg" style="display:none">
+									<div class="dh di">
+										<div class="ep">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="timelineBody">
+						<div class="eq">
+							<div class="er es et">
+								<form method="post" action="/composer/mbasic/?av=100023442999051&amp;refid=17">
+									<input type="hidden" name="fb_dtsg" value="AQHgmVUiVyD0:AQGCF1spzYTn" autocomplete="off"/><input type="hidden" name="id" value="175251879309033"/><input type="hidden" name="xhpc_timeline" value="1"/><input type="hidden" name="target" value="175251879309033"/><input type="hidden" name="c_src" value="page_other"/><input type="hidden" name="cwevent" value="composer_entry"/><input type="hidden" name="referrer" value="pages_feed"/><input type="hidden" name="ctype" value="inline"/><input type="hidden" name="cver" value="amber"/><input type="hidden" name="rst_icv"/><label for="u_0_0" class="eu">Write something...</label>
+									<table class="z ev" role="presentation">
+									<tbody>
+									<tr>
+										<td class="ba">
+											<div class="ew">
+												<img src="https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.0-1/cp0/e15/q65/p32x32/28167024_167573930700706_9195197606268811043_n.jpg?_nc_cat=0&amp;efg=eyJpIjoiYiJ9&amp;_nc_eui2=v1%3AAeE6JNDZxA1NgTeUzN0_6m_CqCkdyBV5TV_7_hxtreJLtIXJJHXIaIWngXer1qG1ZjGnRAtsRSnsIfuvHw9rAamNQ-kZ788cD-6mSJi4FOFhOkWUrjVWm2Utr7CDpLMNkoo&amp;oh=343e04cb169bf3fda03b0fa44f39fa00&amp;oe=5B61076C" width="32" height="32" class="ex ch o" alt="Louvian Lyndal"/>
+											</div>
+										</td>
+										<td class="bf">
+											<div>
+												<textarea class="ey ez fa fb fc" aria-label="Write a post." name="xc_message" id="u_0_0" rows="2"></textarea>
+											</div>
+										</td>
+										<td class="ba">
+											<div class="fd">
+												<input value="Post" type="submit" name="view_post" class="q bk bl fe bn"/>
+											</div>
+										</td>
+									</tr>
+									</tbody>
+									</table>
+									<div class="fg">
+										<span class="fh fi k ej">
+										<div class="fj">
+											<table class="z fk fl" role="presentation">
+											<tbody>
+											<tr>
+												<td class="bi ba">
+													<div class="fm">
+														<img src="https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/q2R21xKYZeJ.png?_nc_eui2=v1%3AAeGYJwQJKipPj_aN_r5EV6fVz212FjG35UQxPJRpzCX4w3oizBaBibX19UMRi9K8VVcp-gi-cevOU1_CBhQrkwYDMMqvAGYlTw0Qc3GzSP9aD15q7MnYLUggwPX9mc8yWWI" width="12" height="12" class="fn du o" role="presentation"/>
+													</div>
+												</td>
+												<td class="bi ba">
+													<input value="Photo" type="submit" name="view_photo" class="q fo fp fq"/>
+												</td>
+											</tr>
+											</tbody>
+											</table>
+										</div>
+										&nbsp;
+										<div class="fj">
+											<table class="z fk fl" role="presentation">
+											<tbody>
+											<tr>
+												<td class="bi ba">
+													<div class="fm">
+														<img src="https://static.xx.fbcdn.net/rsrc.php/v3/yf/r/PaxvhCCj8YD.png?_nc_eui2=v1%3AAeE3A7RRT6bpFnlnuzE39XuJ3gp2LEz6lMkpx7GpCmpxJPe_kvYaOJoP2DCUhWExFKUF0mEs6kULb-GIJ3wa-Ai9WadH-pAzS7Tn92M3z_lrOUrzVDJGF539XYHL0M6YCc0" width="12" height="12" class="fn du o" role="presentation"/>
+													</div>
+												</td>
+												<td class="bi ba">
+													<input value="Check in" type="submit" name="view_location" class="q fo fp fq"/>
+												</td>
+											</tr>
+											</tbody>
+											</table>
+										</div>
+										&nbsp;
+										<div class="fj">
+											<table class="z fk fl" role="presentation">
+											<tbody>
+											<tr>
+												<td class="bi ba">
+													<div class="fm">
+														<img src="https://static.xx.fbcdn.net/rsrc.php/v3/yI/r/jUVZocYwOGk.png?_nc_eui2=v1%3AAeH40BQ8xeHRESkABs8fWdqL23zAr9hB2XEnzBg11t017vCXyVHVr9unX1z7vPgzXB9z2rfvz93tGYPAQBcRezrRsmBZ8ncYuyAJyZndxtRP-yGeIqo9CcHQhlGulHSZO-8" width="12" height="12" class="fn du o" role="presentation"/>
+													</div>
+												</td>
+												<td class="bi ba">
+													<input value="More" type="submit" name="view_overview" class="q fo fp fq"/>
+												</td>
+											</tr>
+											</tbody>
+											</table>
+										</div>
+										</span>
+									</div>
+								</form>
+							</div>
+							<div>
+								<div id="m_stream_stories">
+								</div>
+							</div>
+						</div>
+						<div class="fr" id="structured_composer_async_container">
+							<div class="fs" id="recent">
+								<div class="ft fu">
+									<div class="fv fw fx">
+										<div role="article" class="dh fy fz" data-ft="&#123;&quot;top_level_post_id&quot;:&quot;1023631047804441&quot;,&quot;tl_objid&quot;:&quot;1023631047804441&quot;,&quot;throwback_story_fbid&quot;:&quot;1023631047804441&quot;,&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;page_insights&quot;:&#123;&quot;175251879309033&quot;:&#123;&quot;role&quot;:1,&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;post_context&quot;:&#123;&quot;story_fbid&quot;:&quot;1023631047804441&quot;,&quot;publish_time&quot;:1524161619,&quot;story_name&quot;:&quot;EntStatusCreationStory&quot;,&quot;object_fbtype&quot;:266&#125;,&quot;actor_id&quot;:&quot;175251879309033&quot;,&quot;psn&quot;:&quot;EntStatusCreationStory&quot;,&quot;sl&quot;:4,&quot;targets&quot;:[&#123;&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;actor_id&quot;:&quot;175251879309033&quot;,&quot;role&quot;:1,&quot;post_id&quot;:&quot;1023631047804441&quot;,&quot;share_id&quot;:0&#125;]&#125;&#125;,&quot;thid&quot;:&quot;175251879309033:306061129499414:2:0:1525157999:4651920351612384084&quot;,&quot;tn&quot;:&quot;-R&quot;&#125;" id="u_0_7">
+											<div class="ga">
+												<div>
+													<table class="z" role="presentation">
+													<tbody>
+													<tr>
+														<td class="ba">
+															<div class="gb">
+															</div>
+														</td>
+														<td class="bf fl">
+															<div>
+																<h3 class="gc gd ge gf" data-ft="&#123;&quot;tn&quot;:&quot;C&quot;&#125;"><span><strong><a href="/ThePandaSpot/?refid=17&amp;_ft_=top_level_post_id.1023631047804441%3Atl_objid.1023631047804441%3Athrowback_story_fbid.1023631047804441%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A1023631047804441%2C%22publish_time%22%3A1524161619%2C%22story_name%22%3A%22EntStatusCreationStory%22%2C%22object_fbtype%22%3A266%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntStatusCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A1023631047804441%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A2%3A0%3A1525157999%3A4651920351612384084&amp;__tn__=C-R">The Panda Spot</a></strong></span></h3>
+															</div>
+														</td>
+													</tr>
+													</tbody>
+													</table>
+												</div>
+												<div class="gg" style="" data-ft="&#123;&quot;tn&quot;:&quot;*s&quot;&#125;">
+													<span>
+													<p>
+														test
+													</p>
+													</span>
+												</div>
+											</div>
+											<div class="gh" data-ft="&#123;&quot;tn&quot;:&quot;*W&quot;&#125;">
+												<div class="k ej">
+													<abbr>55 mins</abbr><span aria-hidden="true"> · </span><span class="gi"><span><span class="k">Public</span></span></span>
+												</div>
+												<div class="k ej">
+													<span class="k ej" id="like_1023631047804441"><a href="/a/like.php?ul&amp;actionsource=timeline&amp;ft_ent_identifier=1023631047804441&amp;av=100023442999051&amp;gfid=AQCjoI7JE4HkMHQh&amp;refid=17&amp;_ft_=top_level_post_id.1023631047804441%3Atl_objid.1023631047804441%3Athrowback_story_fbid.1023631047804441%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A1023631047804441%2C%22publish_time%22%3A1524161619%2C%22story_name%22%3A%22EntStatusCreationStory%22%2C%22object_fbtype%22%3A266%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntStatusCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A1023631047804441%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A2%3A0%3A1525157999%3A4651920351612384084&amp;__tn__=%2AW-R">Like</a><span aria-hidden="true"> · </span><a href="/reactions/picker/?ft_id=1023631047804441&amp;origin_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;av=100023442999051&amp;_ft_=top_level_post_id.1023631047804441%3Atl_objid.1023631047804441%3Athrowback_story_fbid.1023631047804441%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A1023631047804441%2C%22publish_time%22%3A1524161619%2C%22story_name%22%3A%22EntStatusCreationStory%22%2C%22object_fbtype%22%3A266%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntStatusCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A1023631047804441%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A2%3A0%3A1525157999%3A4651920351612384084&amp;refid=17&amp;__tn__=%2AW-R">React</a></span><span aria-hidden="true"> · </span><a href="/story.php?story_fbid=1023631047804441&amp;id=175251879309033&amp;refid=17&amp;_ft_=top_level_post_id.1023631047804441%3Atl_objid.1023631047804441%3Athrowback_story_fbid.1023631047804441%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A1023631047804441%2C%22publish_time%22%3A1524161619%2C%22story_name%22%3A%22EntStatusCreationStory%22%2C%22object_fbtype%22%3A266%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntStatusCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A1023631047804441%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A2%3A0%3A1525157999%3A4651920351612384084&amp;__tn__=%2AW-R" class="gj">Comment</a><span aria-hidden="true"> · </span><a href="/composer/mbasic/?c_src=share&amp;referrer=timeline&amp;target=100023442999051&amp;sid=1023631047804441&amp;m=self&amp;exit_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;shared_from_post_id=1023631047804441&amp;cwevent=composer_entry&amp;av=100023442999051&amp;view_overview&amp;refid=17&amp;_ft_=top_level_post_id.1023631047804441%3Atl_objid.1023631047804441%3Athrowback_story_fbid.1023631047804441%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A1023631047804441%2C%22publish_time%22%3A1524161619%2C%22story_name%22%3A%22EntStatusCreationStory%22%2C%22object_fbtype%22%3A266%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntStatusCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A1023631047804441%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A2%3A0%3A1525157999%3A4651920351612384084&amp;__tn__=%2AW-R">Share</a><span aria-hidden="true"> · </span><a class="gj" href="/a/profile.php?fan&amp;id=175251879309033&amp;origin=feed_story&amp;rb=1&amp;inlineSuggestionsOnLiking=1&amp;gfid=AQBHguzJzydFUVdT&amp;refid=17&amp;_ft_=top_level_post_id.1023631047804441%3Atl_objid.1023631047804441%3Athrowback_story_fbid.1023631047804441%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A1023631047804441%2C%22publish_time%22%3A1524161619%2C%22story_name%22%3A%22EntStatusCreationStory%22%2C%22object_fbtype%22%3A266%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntStatusCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A1023631047804441%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A2%3A0%3A1525157999%3A4651920351612384084&amp;__tn__=%2AW-R">Like Page</a><span aria-hidden="true"> · </span><a href="/story.php?story_fbid=1023631047804441&amp;id=175251879309033&amp;refid=17&amp;_ft_=top_level_post_id.1023631047804441%3Atl_objid.1023631047804441%3Athrowback_story_fbid.1023631047804441%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A1023631047804441%2C%22publish_time%22%3A1524161619%2C%22story_name%22%3A%22EntStatusCreationStory%22%2C%22object_fbtype%22%3A266%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntStatusCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A1023631047804441%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A2%3A0%3A1525157999%3A4651920351612384084&amp;__tn__=%2AW-R#footer_action_list">Full Story</a><span aria-hidden="true"> · </span><a href="/nfx/basic/handle_action/?context_str=%7B%22breadcrumbs%22%3A%5B%5D%2C%22story_location%22%3A%22profile_someone_else%22%2C%22is_from_feed_tombstone%22%3Afalse%2C%22actions_taken%22%3A%22%22%2C%22is_rapid_reporting%22%3Afalse%2C%22is_instream_follow_up%22%3Afalse%2C%22entry_point%22%3A%22unknown%22%2C%22hideable_token%22%3A%22MzQwMjYzNjQwMbcwMDExMaxzzSsJLkksKS12LkpNLMnMzwsuyS-qrKszNDc1MjW0MLc0NrA0MDauqzOoAwA%22%2C%22story_permalink_token%22%3A%22S%3A_I175251879309033%3A1023631047804441%22%7D&amp;is_direct=1&amp;action_key=RESOLVE_PROBLEM&amp;redirect_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;ext=1524424174&amp;hash=AeQiFlmaaIZQpAFQ&amp;refid=17&amp;_ft_=top_level_post_id.1023631047804441%3Atl_objid.1023631047804441%3Athrowback_story_fbid.1023631047804441%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A1023631047804441%2C%22publish_time%22%3A1524161619%2C%22story_name%22%3A%22EntStatusCreationStory%22%2C%22object_fbtype%22%3A266%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntStatusCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A1023631047804441%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A2%3A0%3A1525157999%3A4651920351612384084&amp;__tn__=%2AW-R">Report</a>
+												</div>
+											</div>
+										</div>
+										<div role="article" class="dh fy fz" data-ft="&#123;&quot;top_level_post_id&quot;:&quot;791202297713985&quot;,&quot;tl_objid&quot;:&quot;791202297713985&quot;,&quot;throwback_story_fbid&quot;:&quot;791202297713985&quot;,&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;page_insights&quot;:&#123;&quot;175251879309033&quot;:&#123;&quot;role&quot;:1,&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;post_context&quot;:&#123;&quot;story_fbid&quot;:&quot;791202297713985&quot;,&quot;publish_time&quot;:1490592946,&quot;story_name&quot;:&quot;EntShareCreationStory&quot;,&quot;object_fbtype&quot;:32&#125;,&quot;actor_id&quot;:&quot;175251879309033&quot;,&quot;psn&quot;:&quot;EntShareCreationStory&quot;,&quot;sl&quot;:4,&quot;targets&quot;:[&#123;&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;actor_id&quot;:&quot;175251879309033&quot;,&quot;role&quot;:1,&quot;post_id&quot;:&quot;791202297713985&quot;,&quot;share_id&quot;:0&#125;]&#125;&#125;,&quot;thid&quot;:&quot;175251879309033:306061129499414:3:0:1525157999:-8862902208260880881&quot;,&quot;tn&quot;:&quot;-R&quot;&#125;" id="u_0_3">
+											<div class="ga">
+												<div>
+													<table class="z" role="presentation">
+													<tbody>
+													<tr>
+														<td class="ba">
+															<div class="gb">
+															</div>
+														</td>
+														<td class="bf fl">
+															<div>
+																<h3 class="gc bk ge gf" data-ft="&#123;&quot;tn&quot;:&quot;C&quot;&#125;"><strong><a href="/ThePandaSpot/?refid=17&amp;_ft_=top_level_post_id.791202297713985%3Atl_objid.791202297713985%3Athrowback_story_fbid.791202297713985%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A791202297713985%2C%22publish_time%22%3A1490592946%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A791202297713985%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A-8862902208260880881&amp;__tn__=C-R">The Panda Spot</a></strong> shared a <a href="/story.php?story_fbid=791202297713985&amp;id=175251879309033&amp;refid=17&amp;_ft_=top_level_post_id.791202297713985%3Atl_objid.791202297713985%3Athrowback_story_fbid.791202297713985%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A791202297713985%2C%22publish_time%22%3A1490592946%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A791202297713985%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A-8862902208260880881&amp;__tn__=C-R">link</a>.</h3>
+															</div>
+														</td>
+													</tr>
+													</tbody>
+													</table>
+												</div>
+												<div class="gk gl" data-ft="&#123;&quot;tn&quot;:&quot;H&quot;&#125;">
+													<a class="gm gn" href="https://lm.facebook.com/l.php?u=http%3A%2F%2Fdari-redaksi.blogspot.co.id%2F2017%2F03%2Fuang-bisa-dicari-ilmu-bisa-digali-tapi.html&amp;h=ATMujQwSMWL4-CilUuXnhLGhxL1COhDlyQV_WR4cIivLf_gFrdzdK3O29XKZFB2dLndR-rUAkLxa7ZAAlgfGcK5Je7QrLCO7ZncA0VYi7zBfhRy396Y41uNyc1NkLuubc2ONPw5YeP5xZe7yCTJY1nE3td8KU23cgLLzLEl0pi75_QGnCJRhjctsAV1WtGD7sRBnJfh-ACATL5UTSrBu_ogvdKe9lejBjWQT7RuGkHewNUQJjwabB46Lfl6Y2xdHE_JrzJyfpfb0gDyw3YFsVvyo7ru6gzvC8AduufimQiKoLJXtdpAbSOPm0BXo6HMjC_82ZHB35ZjDI2xbXXebX-Q36pgfFfOBhG0pxODtyS6Mz9cCZV7zDknc_oAfsKFQYdrecJKcw-OQA9-8VBGuEFxpBF6RjZlKRcDN7c1DLTvXDkUCFpxOwa1o0ZW0O-295Ms0s04Ghkb8AFSpZ2prWll-24fG2ugM66dLqbLbLWrajXlbqjTDt0ULpic7B_BHADTVLtBJCzARI5FMjkBdwGHSkl681IJ_6gClSiypB7kKMZfs-cndUxbfK8o84TMA0reqn9WUc1YDEacFdNVaThzpm_YZnsI4Dh0N0eOMWAeMqN2Wf6WjfBEzR3u58YCspZLTMX8W12wbby4NWIxZPdVPPPcB0iPManDDY-LTBxbZ9Y3UqUnfZi51iWs7jpSWRzPkgftKWT9aX46PLlHtzdEt3nUv49XDbazSwZ1CqjwH-KKGw7r3dEyvjEvQ7v_JAEZk0uvua4uQSFeOqa9AQBGhU-nrPDGyjDeCQ51dGdrziDnAQtmDatBumFgJa04vk-W94pwF4n7E5bUEqLHdAsyQk6ag5TxxuuoeZl30NVif6YGuCjbEki_KepM" id="u_0_9" target="_blank">
+													<div class="go dk gp">
+														<table class="z ev" role="presentation">
+														<tbody>
+														<tr>
+															<td class="ba gq">
+																<img src="https://external.fcgk8-1.fna.fbcdn.net/safe_image.php?d=AQBDlxoWinkKMMuz&amp;w=112&amp;h=112&amp;url=https%3A%2F%2Fscontent.fcgk8-1.fna.fbcdn.net%2Fv%2Ft45.1600-4%2Fcp0%2Fe15%2Fq65%2Fc46.0.118.118%2Fp118x118%2F19897162_6077782326931_8921507682158903296_n.png.jpg%3F_nc_cat%3D0%26efg%3DeyJxZV9ncm91cHMiOlsibm9fc2FmZV9pbWFnZV9mb3JfYWRzX2ltYWdlIl0sImkiOiJiIn0%253D%26_nc_eui2%3Dv1%253AAeFO5IeuvhqCPW66qQz5KPZh-SgUrliTJH66GaRwrzE1UajuTycYndi4MIho0u2zE1h6KFig9GfMJQbgCfwxiqeXq5AMzlOX4CbuafHWSMI-8HCqb0KA6eq8s_gEy9_YUxg%26oh%3D46ede9084af2316613c4f740c68749f4%26oe%3D5B6E83C2&amp;cfs=1&amp;_nc_eui2=v1%3AAeGISl4SuuPna_scxEDFpl1uy7Q3GFLaQXSXsEZqbfva5JCY6X2OUrSJyF3lYsN2U2P7GZPAXgXan3TJdmK8ccsnYfrFp_LAI7Vsv1AJBPmEbWagVxaCjMyt49Ky2P5j1Gc&amp;_nc_hash=AQAtbTkOYFdjSbw_" width="112" height="112" class="o" role="presentation"/>
+															</td>
+															<td class="bf">
+																<h3 class="gr gd gs">Uang Bisa Dicari, Ilmu Bisa Digali, Tapi Kesempatan Untuk Mengasihi Orang Tua Takkan Terulang Kembali...</h3>
+																<div class="gt gu">
+																	dari-redaksi.blogspot.com
+																	<div class="gt">
+																	</div>
+																</div>
+															</td>
+														</tr>
+														</tbody>
+														</table>
+													</div>
+													</a>
+													<div>
+													</div>
+													<div>
+													</div>
+												</div>
+											</div>
+											<div class="gh" data-ft="&#123;&quot;tn&quot;:&quot;*W&quot;&#125;">
+												<div class="k ej">
+													<abbr>27 March 2017 at 12:35</abbr><span aria-hidden="true"> · </span><span class="gi"><span><span class="k">Public</span></span></span>
+												</div>
+												<div class="k ej">
+													<span class="k ej" id="like_791202297713985"><a class="gv gj" aria-label="2 reactions, including Like" href="/story.php?story_fbid=791202297713985&amp;id=175251879309033&amp;refid=17&amp;_ft_=top_level_post_id.791202297713985%3Atl_objid.791202297713985%3Athrowback_story_fbid.791202297713985%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A791202297713985%2C%22publish_time%22%3A1490592946%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A791202297713985%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A-8862902208260880881&amp;__tn__=%2AW-R"><span class="gw"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yY/r/7c6MzgeBwv-.png?_nc_eui2=v1%3AAeHrYnLaHxRiYcNq8pWJkzF4elw6-vY59jPNcnnmqT4u8BNcz5WM0uKdhI1HpDTGplg0Zm1R-2McPLdCvVZGHyPssHIPPwWJg94v1Wst-0B-Pb-IA56bbmCWIY9-uWFrlbw" width="13" height="13" class="o"/></span>2</a><span aria-hidden="true"> · </span><a href="/a/like.php?ul&amp;actionsource=timeline&amp;ft_ent_identifier=791202297713985&amp;av=100023442999051&amp;gfid=AQBnzBgowAuu-A_7&amp;refid=17&amp;_ft_=top_level_post_id.791202297713985%3Atl_objid.791202297713985%3Athrowback_story_fbid.791202297713985%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A791202297713985%2C%22publish_time%22%3A1490592946%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A791202297713985%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A-8862902208260880881&amp;__tn__=%2AW-R">Like</a><span aria-hidden="true"> · </span><a href="/reactions/picker/?ft_id=791202297713985&amp;origin_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;av=100023442999051&amp;_ft_=top_level_post_id.791202297713985%3Atl_objid.791202297713985%3Athrowback_story_fbid.791202297713985%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A791202297713985%2C%22publish_time%22%3A1490592946%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A791202297713985%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A-8862902208260880881&amp;refid=17&amp;__tn__=%2AW-R">React</a></span><span aria-hidden="true"> · </span><a href="/story.php?story_fbid=791202297713985&amp;id=175251879309033&amp;refid=17&amp;_ft_=top_level_post_id.791202297713985%3Atl_objid.791202297713985%3Athrowback_story_fbid.791202297713985%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A791202297713985%2C%22publish_time%22%3A1490592946%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A791202297713985%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A-8862902208260880881&amp;__tn__=%2AW-R" class="gj">Comment</a><span aria-hidden="true"> · </span><a href="/composer/mbasic/?c_src=share&amp;referrer=timeline&amp;target=100023442999051&amp;sid=791202297713985&amp;m=self&amp;exit_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;shared_from_post_id=791202297713985&amp;cwevent=composer_entry&amp;av=100023442999051&amp;view_overview&amp;refid=17&amp;_ft_=top_level_post_id.791202297713985%3Atl_objid.791202297713985%3Athrowback_story_fbid.791202297713985%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A791202297713985%2C%22publish_time%22%3A1490592946%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A791202297713985%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A-8862902208260880881&amp;__tn__=%2AW-R">Share</a><span aria-hidden="true"> · </span><a class="gj" href="/a/profile.php?fan&amp;id=175251879309033&amp;origin=feed_story&amp;rb=1&amp;inlineSuggestionsOnLiking=1&amp;gfid=AQBHguzJzydFUVdT&amp;refid=17&amp;_ft_=top_level_post_id.791202297713985%3Atl_objid.791202297713985%3Athrowback_story_fbid.791202297713985%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A791202297713985%2C%22publish_time%22%3A1490592946%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A791202297713985%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A-8862902208260880881&amp;__tn__=%2AW-R">Like Page</a><span aria-hidden="true"> · </span><a href="/story.php?story_fbid=791202297713985&amp;id=175251879309033&amp;refid=17&amp;_ft_=top_level_post_id.791202297713985%3Atl_objid.791202297713985%3Athrowback_story_fbid.791202297713985%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A791202297713985%2C%22publish_time%22%3A1490592946%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A791202297713985%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A-8862902208260880881&amp;__tn__=%2AW-R#footer_action_list">Full Story</a><span aria-hidden="true"> · </span><a href="/nfx/basic/handle_action/?context_str=%7B%22breadcrumbs%22%3A%5B%5D%2C%22story_location%22%3A%22profile_someone_else%22%2C%22is_from_feed_tombstone%22%3Afalse%2C%22actions_taken%22%3A%22%22%2C%22is_rapid_reporting%22%3Afalse%2C%22is_instream_follow_up%22%3Afalse%2C%22entry_point%22%3A%22unknown%22%2C%22hideable_token%22%3A%22M7c0NDIwMrI0Nzc0trQwrXPNKwnOSCxKdS5KTSzJzM8LLskvqqyrMzQ3NTI1tDC3NDawNDA2rqszqAMA%22%2C%22story_permalink_token%22%3A%22S%3A_I175251879309033%3A791202297713985%22%7D&amp;is_direct=1&amp;action_key=RESOLVE_PROBLEM&amp;redirect_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;ext=1524424174&amp;hash=AeTSNLR5MDFuncw8&amp;refid=17&amp;_ft_=top_level_post_id.791202297713985%3Atl_objid.791202297713985%3Athrowback_story_fbid.791202297713985%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A791202297713985%2C%22publish_time%22%3A1490592946%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A791202297713985%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A-8862902208260880881&amp;__tn__=%2AW-R">Report</a>
+												</div>
+											</div>
+										</div>
+										<div role="article" class="dh fy fz" data-ft="&#123;&quot;top_level_post_id&quot;:&quot;790556807778534&quot;,&quot;tl_objid&quot;:&quot;790556807778534&quot;,&quot;throwback_story_fbid&quot;:&quot;790556807778534&quot;,&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;page_insights&quot;:&#123;&quot;175251879309033&quot;:&#123;&quot;role&quot;:1,&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;post_context&quot;:&#123;&quot;story_fbid&quot;:&quot;790556807778534&quot;,&quot;publish_time&quot;:1490524121,&quot;story_name&quot;:&quot;EntShareCreationStory&quot;,&quot;object_fbtype&quot;:32&#125;,&quot;actor_id&quot;:&quot;175251879309033&quot;,&quot;psn&quot;:&quot;EntShareCreationStory&quot;,&quot;sl&quot;:4,&quot;targets&quot;:[&#123;&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;actor_id&quot;:&quot;175251879309033&quot;,&quot;role&quot;:1,&quot;post_id&quot;:&quot;790556807778534&quot;,&quot;share_id&quot;:&quot;464817670304891&quot;&#125;]&#125;,&quot;168307763289218&quot;:&#123;&quot;page_id&quot;:&quot;168307763289218&quot;,&quot;role&quot;:1,&quot;actor_id&quot;:&quot;175251879309033&quot;,&quot;psn&quot;:&quot;EntShareCreationStory&quot;,&quot;attached_story&quot;:&#123;&quot;role&quot;:1,&quot;page_id&quot;:&quot;168307763289218&quot;,&quot;post_context&quot;:&#123;&quot;story_fbid&quot;:&quot;464817670304891&quot;,&quot;publish_time&quot;:1384635771,&quot;story_name&quot;:&quot;EntComposerPhotoCreationStory&quot;,&quot;object_fbtype&quot;:22&#125;,&quot;actor_id&quot;:&quot;168307763289218&quot;,&quot;psn&quot;:&quot;EntComposerPhotoCreationStory&quot;,&quot;sl&quot;:4&#125;,&quot;sl&quot;:4,&quot;targets&quot;:[&#123;&quot;page_id&quot;:&quot;168307763289218&quot;,&quot;actor_id&quot;:&quot;175251879309033&quot;,&quot;role&quot;:1,&quot;post_id&quot;:&quot;464817670304891&quot;,&quot;share_id&quot;:0&#125;]&#125;&#125;,&quot;thid&quot;:&quot;175251879309033:306061129499414:3:0:1525157999:8991966979710641249&quot;,&quot;tn&quot;:&quot;-R&quot;&#125;" id="u_0_4">
+											<div class="ga">
+												<div>
+													<table class="z" role="presentation">
+													<tbody>
+													<tr>
+														<td class="ba">
+															<div class="gb">
+															</div>
+														</td>
+														<td class="bf fl">
+															<div>
+																<h3 class="gc bk ge gf" data-ft="&#123;&quot;tn&quot;:&quot;C&quot;&#125;"><strong><a href="/ThePandaSpot/?refid=17&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;__tn__=C-R">The Panda Spot</a></strong> shared a <a href="/168307763289218/photos/a.168324319954229.35619.168307763289218/464817643638227/?type=3&amp;refid=17&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;__tn__=C-R">photo</a>.</h3>
+															</div>
+														</td>
+													</tr>
+													</tbody>
+													</table>
+												</div>
+												<div class="gk gl" data-ft="&#123;&quot;tn&quot;:&quot;H&quot;&#125;">
+													<div>
+													</div>
+													<div>
+														<div role="article" class="dh fy fz gx" id="u_0_8">
+															<div class="ga">
+																<div>
+																	<table class="z" role="presentation">
+																	<tbody>
+																	<tr>
+																		<td class="ba">
+																			<div class="gb">
+																			</div>
+																		</td>
+																		<td class="bf fl">
+																			<div>
+																				<h3 class="gc bk ge gf" data-ft="&#123;&quot;tn&quot;:&quot;C&quot;&#125;"><strong><a href="/Creepypasta-168307763289218/?refid=17&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;__tn__=CH-R">Creepypasta</a></strong> is with <a href="/leanh2410?fref=nf&amp;pn_ref=story&amp;refid=17&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;__tn__=CH-R">Lê Anh</a>.</h3>
+																			</div>
+																		</td>
+																	</tr>
+																	</tbody>
+																	</table>
+																</div>
+																<div class="gg" style="" data-ft="&#123;&quot;tn&quot;:&quot;*s&quot;&#125;">
+																	<span>
+																	<p>
+																		A two sentence horror story.
+																	</p>
+																	<p>
+																		 What&#039;s the best horror story you can come up with in two sentences?
+																	</p>
+																	</span>
+																</div>
+																<div class="gk gl" data-ft="&#123;&quot;tn&quot;:&quot;H&quot;&#125;">
+																	<div class="gy gn" data-ft="&#123;&quot;tn&quot;:&quot;E&quot;&#125;">
+																		<a class="gz ha hb" href="/168307763289218/photos/a.168324319954229.35619.168307763289218/464817643638227/?type=3&amp;refid=17&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;__tn__=EHH-R"><img src="https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/s240x240/1470357_464817643638227_1267509921_n.jpg?_nc_cat=0&amp;efg=eyJpIjoiYiJ9&amp;_nc_eui2=v1%3AAeEOuVbBjOMUCNi_y_fNcXzm0YK08ttFSaPXykVSJEbQOuSWO6c6MXPLkg6QNQJgfCz59CHHx_1i_CGqao6KOLWApgGtGpxOfe2M8m1XMYt0XBYW90fSMb0wGoIummSIQow&amp;oh=d9c01039b50b806eabd2bb8bbab61db0&amp;oe=5B6C74DB" width="240" height="159" class="o" alt="Image may contain: one or more people, glasses and text"/></a>
+																	</div>
+																	<div>
+																	</div>
+																	<div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="gh" data-ft="&#123;&quot;tn&quot;:&quot;*W&quot;&#125;">
+												<div class="k ej">
+													<abbr>26 March 2017 at 17:28</abbr><span aria-hidden="true"> · </span><span class="gi"><span><span class="k">Public</span></span></span>
+												</div>
+												<div class="k ej">
+													<span class="k ej" id="like_790556807778534"><a class="gv gj" aria-label="1 reaction, including Like" href="/story.php?story_fbid=790556807778534&amp;id=175251879309033&amp;refid=17&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;__tn__=%2AW-R"><span class="gw"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yY/r/7c6MzgeBwv-.png?_nc_eui2=v1%3AAeHrYnLaHxRiYcNq8pWJkzF4elw6-vY59jPNcnnmqT4u8BNcz5WM0uKdhI1HpDTGplg0Zm1R-2McPLdCvVZGHyPssHIPPwWJg94v1Wst-0B-Pb-IA56bbmCWIY9-uWFrlbw" width="13" height="13" class="o"/></span>1</a><span aria-hidden="true"> · </span><a href="/a/like.php?ul&amp;actionsource=timeline&amp;ft_ent_identifier=790556807778534&amp;av=100023442999051&amp;gfid=AQBRgNUwbcVXhhxE&amp;refid=17&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;__tn__=%2AW-R">Like</a><span aria-hidden="true"> · </span><a href="/reactions/picker/?ft_id=790556807778534&amp;origin_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;av=100023442999051&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;refid=17&amp;__tn__=%2AW-R">React</a></span><span aria-hidden="true"> · </span><a href="/story.php?story_fbid=790556807778534&amp;id=175251879309033&amp;refid=17&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;__tn__=%2AW-R" class="gj">Comment</a><span aria-hidden="true"> · </span><a href="/composer/mbasic/?c_src=share&amp;referrer=timeline&amp;target=100023442999051&amp;sid=464817643638227&amp;m=self&amp;exit_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;shared_from_post_id=790556807778534&amp;cwevent=composer_entry&amp;av=100023442999051&amp;view_overview&amp;refid=17&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;__tn__=%2AW-R">Share</a><span aria-hidden="true"> · </span><a class="gj" href="/a/profile.php?fan&amp;id=175251879309033&amp;origin=feed_story&amp;rb=1&amp;inlineSuggestionsOnLiking=1&amp;gfid=AQBHguzJzydFUVdT&amp;refid=17&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;__tn__=%2AW-R">Like Page</a><span aria-hidden="true"> · </span><a href="/story.php?story_fbid=790556807778534&amp;id=175251879309033&amp;refid=17&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;__tn__=%2AW-R#footer_action_list">Full Story</a><span aria-hidden="true"> · </span><a href="/nfx/basic/handle_action/?context_str=%7B%22breadcrumbs%22%3A%5B%5D%2C%22story_location%22%3A%22profile_someone_else%22%2C%22is_from_feed_tombstone%22%3Afalse%2C%22actions_taken%22%3A%22%22%2C%22is_rapid_reporting%22%3Afalse%2C%22is_instream_follow_up%22%3Afalse%2C%22entry_point%22%3A%22unknown%22%2C%22hideable_token%22%3A%22M7c0MDU1szAwNze3MDU2qXPNKwnOSCxKdS5KTSzJzM8LLskvqqyrMzQ3NTI1tDC3NDawNDA2rqszqAMA%22%2C%22story_permalink_token%22%3A%22S%3A_I175251879309033%3A790556807778534%22%7D&amp;is_direct=1&amp;action_key=RESOLVE_PROBLEM&amp;redirect_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;ext=1524424174&amp;hash=AeTVwz0pvZUdhCrl&amp;refid=17&amp;_ft_=top_level_post_id.790556807778534%3Atl_objid.790556807778534%3Athrowback_story_fbid.790556807778534%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790556807778534%2C%22publish_time%22%3A1490524121%2C%22story_name%22%3A%22EntShareCreationStory%22%2C%22object_fbtype%22%3A32%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790556807778534%2C%22share_id%22%3A464817670304891%7D%5D%7D%2C%22168307763289218%22%3A%7B%22page_id%22%3A168307763289218%2C%22role%22%3A1%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntShareCreationStory%22%2C%22attached_story%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A168307763289218%2C%22post_context%22%3A%7B%22story_fbid%22%3A464817670304891%2C%22publish_time%22%3A1384635771%2C%22story_name%22%3A%22EntComposerPhotoCreationStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A168307763289218%2C%22psn%22%3A%22EntComposerPhotoCreationStory%22%2C%22sl%22%3A4%7D%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A168307763289218%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A464817670304891%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A3%3A0%3A1525157999%3A8991966979710641249&amp;__tn__=%2AW-R">Report</a>
+												</div>
+											</div>
+										</div>
+										<div role="article" class="dh fy fz" data-ft="&#123;&quot;top_level_post_id&quot;:&quot;790461264454755&quot;,&quot;tl_objid&quot;:&quot;790461264454755&quot;,&quot;throwback_story_fbid&quot;:&quot;790461264454755&quot;,&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;page_insights&quot;:&#123;&quot;175251879309033&quot;:&#123;&quot;role&quot;:1,&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;post_context&quot;:&#123;&quot;story_fbid&quot;:&quot;790461264454755&quot;,&quot;publish_time&quot;:1490513699,&quot;story_name&quot;:&quot;EntPhotoNodeBasedEdgeStory&quot;,&quot;object_fbtype&quot;:22&#125;,&quot;actor_id&quot;:&quot;175251879309033&quot;,&quot;psn&quot;:&quot;EntPhotoNodeBasedEdgeStory&quot;,&quot;sl&quot;:4,&quot;targets&quot;:[&#123;&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;actor_id&quot;:&quot;175251879309033&quot;,&quot;role&quot;:1,&quot;post_id&quot;:&quot;790461264454755&quot;,&quot;share_id&quot;:0&#125;]&#125;&#125;,&quot;thid&quot;:&quot;175251879309033:306061129499414:69:0:1525157999:-3578296509250334619&quot;,&quot;tn&quot;:&quot;-R&quot;&#125;" id="u_0_6">
+											<div class="ga">
+												<div>
+													<table class="z" role="presentation">
+													<tbody>
+													<tr>
+														<td class="ba">
+															<div class="gb">
+															</div>
+														</td>
+														<td class="bf fl">
+															<div>
+																<h3 class="gc gd ge gf" data-ft="&#123;&quot;tn&quot;:&quot;C&quot;&#125;"><span><strong><a href="/ThePandaSpot/?refid=17&amp;_ft_=top_level_post_id.790461264454755%3Atl_objid.790461264454755%3Athrowback_story_fbid.790461264454755%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790461264454755%2C%22publish_time%22%3A1490513699%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790461264454755%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-3578296509250334619&amp;__tn__=C-R">The Panda Spot</a></strong></span></h3>
+															</div>
+														</td>
+													</tr>
+													</tbody>
+													</table>
+												</div>
+												<div class="gk gl" data-ft="&#123;&quot;tn&quot;:&quot;H&quot;&#125;">
+													<div class="gy gn" data-ft="&#123;&quot;tn&quot;:&quot;E&quot;&#125;">
+														<a class="gz ha hb" href="/ThePandaSpot/photos/a.175258895974998.1073741829.175251879309033/790461264454755/?type=3&amp;refid=17&amp;_ft_=top_level_post_id.790461264454755%3Atl_objid.790461264454755%3Athrowback_story_fbid.790461264454755%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790461264454755%2C%22publish_time%22%3A1490513699%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790461264454755%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-3578296509250334619&amp;__tn__=EH-R"><img src="https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/s200x200/17426395_790461264454755_9211025395916115360_n.jpg?_nc_cat=0&amp;efg=eyJpIjoiYiJ9&amp;_nc_eui2=v1%3AAeEVwKZdZFL8TvHRQdw0nHxbAhJ-tXPs8nWP7avilQnFLYlF1neHlnhktutA2w0kT91ppFx7xqEL5SvNtkKHgaaxp4YRI0d5_leC-cyVyBQhH_yHxvbQ6WeAmuv5hlq3iPc&amp;oh=a7c12f8350f0a53a1a5fdad9e7cdbc0f&amp;oe=5B53E112" width="157" height="200" class="o" alt="No automatic alt text available."/></a>
+													</div>
+													<div>
+													</div>
+													<div>
+													</div>
+												</div>
+											</div>
+											<div class="gh" data-ft="&#123;&quot;tn&quot;:&quot;*W&quot;&#125;">
+												<div class="k ej">
+													<abbr>26 March 2017 at 14:34</abbr><span aria-hidden="true"> · </span><span class="gi"><span><span class="k">Public</span></span></span>
+												</div>
+												<div class="k ej">
+													<span class="k ej" id="like_790461264454755"><a class="gv gj" aria-label="1 reaction, including Like" href="/ThePandaSpot/photos/a.175258895974998.1073741829.175251879309033/790461264454755/?type=3&amp;refid=17&amp;_ft_=top_level_post_id.790461264454755%3Atl_objid.790461264454755%3Athrowback_story_fbid.790461264454755%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790461264454755%2C%22publish_time%22%3A1490513699%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790461264454755%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-3578296509250334619&amp;__tn__=%2AW-R"><span class="gw"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yY/r/7c6MzgeBwv-.png?_nc_eui2=v1%3AAeHrYnLaHxRiYcNq8pWJkzF4elw6-vY59jPNcnnmqT4u8BNcz5WM0uKdhI1HpDTGplg0Zm1R-2McPLdCvVZGHyPssHIPPwWJg94v1Wst-0B-Pb-IA56bbmCWIY9-uWFrlbw" width="13" height="13" class="o"/></span>1</a><span aria-hidden="true"> · </span><a href="/a/like.php?ul&amp;actionsource=timeline&amp;ft_ent_identifier=790461264454755&amp;av=100023442999051&amp;gfid=AQC09lth6CH9nBJf&amp;refid=17&amp;_ft_=top_level_post_id.790461264454755%3Atl_objid.790461264454755%3Athrowback_story_fbid.790461264454755%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790461264454755%2C%22publish_time%22%3A1490513699%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790461264454755%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-3578296509250334619&amp;__tn__=%2AW-R">Like</a><span aria-hidden="true"> · </span><a href="/reactions/picker/?ft_id=790461264454755&amp;origin_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;av=100023442999051&amp;_ft_=top_level_post_id.790461264454755%3Atl_objid.790461264454755%3Athrowback_story_fbid.790461264454755%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790461264454755%2C%22publish_time%22%3A1490513699%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790461264454755%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-3578296509250334619&amp;refid=17&amp;__tn__=%2AW-R">React</a></span><span aria-hidden="true"> · </span><a href="/ThePandaSpot/photos/a.175258895974998.1073741829.175251879309033/790461264454755/?type=3&amp;refid=17&amp;_ft_=top_level_post_id.790461264454755%3Atl_objid.790461264454755%3Athrowback_story_fbid.790461264454755%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790461264454755%2C%22publish_time%22%3A1490513699%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790461264454755%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-3578296509250334619&amp;__tn__=%2AW-R" class="gj">Comment</a><span aria-hidden="true"> · </span><a href="/composer/mbasic/?c_src=share&amp;referrer=timeline&amp;target=100023442999051&amp;sid=790461264454755&amp;m=self&amp;exit_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;shared_from_post_id=790461264454755&amp;cwevent=composer_entry&amp;av=100023442999051&amp;view_overview&amp;refid=17&amp;_ft_=top_level_post_id.790461264454755%3Atl_objid.790461264454755%3Athrowback_story_fbid.790461264454755%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790461264454755%2C%22publish_time%22%3A1490513699%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790461264454755%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-3578296509250334619&amp;__tn__=%2AW-R">Share</a><span aria-hidden="true"> · </span><a class="gj" href="/a/profile.php?fan&amp;id=175251879309033&amp;origin=feed_story&amp;rb=1&amp;inlineSuggestionsOnLiking=1&amp;gfid=AQBHguzJzydFUVdT&amp;refid=17&amp;_ft_=top_level_post_id.790461264454755%3Atl_objid.790461264454755%3Athrowback_story_fbid.790461264454755%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790461264454755%2C%22publish_time%22%3A1490513699%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790461264454755%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-3578296509250334619&amp;__tn__=%2AW-R">Like Page</a><span aria-hidden="true"> · </span><a href="/ThePandaSpot/photos/a.175258895974998.1073741829.175251879309033/790461264454755/?type=3&amp;refid=17&amp;_ft_=top_level_post_id.790461264454755%3Atl_objid.790461264454755%3Athrowback_story_fbid.790461264454755%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790461264454755%2C%22publish_time%22%3A1490513699%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790461264454755%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-3578296509250334619&amp;__tn__=%2AW-R#footer_action_list">Full Story</a><span aria-hidden="true"> · </span><a href="/nfx/basic/handle_action/?context_str=%7B%22breadcrumbs%22%3A%5B%5D%2C%22story_location%22%3A%22profile_someone_else%22%2C%22is_from_feed_tombstone%22%3Afalse%2C%22actions_taken%22%3A%22%22%2C%22is_rapid_reporting%22%3Afalse%2C%22is_instream_follow_up%22%3Afalse%2C%22entry_point%22%3A%22unknown%22%2C%22hideable_token%22%3A%22M7c0MDEzNDIzMTE1MTc1rXPNKwnIyC_J98tPSXVKLE5NcU1JTw0uyS-qrKszNDc1MjW0MLc0NrA0MDauqzOoAwA%22%2C%22story_permalink_token%22%3A%22S%3A_I175251879309033%3A790461264454755%3A0%22%7D&amp;is_direct=1&amp;action_key=RESOLVE_PROBLEM&amp;redirect_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;ext=1524424174&amp;hash=AeTJhe5p1wXffweL&amp;refid=17&amp;_ft_=top_level_post_id.790461264454755%3Atl_objid.790461264454755%3Athrowback_story_fbid.790461264454755%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790461264454755%2C%22publish_time%22%3A1490513699%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790461264454755%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-3578296509250334619&amp;__tn__=%2AW-R">Report</a>
+												</div>
+											</div>
+										</div>
+										<div role="article" class="dh fy fz" data-ft="&#123;&quot;top_level_post_id&quot;:&quot;790460821121466&quot;,&quot;tl_objid&quot;:&quot;790460821121466&quot;,&quot;throwback_story_fbid&quot;:&quot;790460821121466&quot;,&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;page_insights&quot;:&#123;&quot;175251879309033&quot;:&#123;&quot;role&quot;:1,&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;post_context&quot;:&#123;&quot;story_fbid&quot;:&quot;790460821121466&quot;,&quot;publish_time&quot;:1490513658,&quot;story_name&quot;:&quot;EntPhotoNodeBasedEdgeStory&quot;,&quot;object_fbtype&quot;:22&#125;,&quot;actor_id&quot;:&quot;175251879309033&quot;,&quot;psn&quot;:&quot;EntPhotoNodeBasedEdgeStory&quot;,&quot;sl&quot;:4,&quot;targets&quot;:[&#123;&quot;page_id&quot;:&quot;175251879309033&quot;,&quot;actor_id&quot;:&quot;175251879309033&quot;,&quot;role&quot;:1,&quot;post_id&quot;:&quot;790460821121466&quot;,&quot;share_id&quot;:0&#125;]&#125;&#125;,&quot;thid&quot;:&quot;175251879309033:306061129499414:69:0:1525157999:-4579203896603446176&quot;,&quot;tn&quot;:&quot;-R&quot;&#125;" id="u_0_5">
+											<div class="ga">
+												<div>
+													<table class="z" role="presentation">
+													<tbody>
+													<tr>
+														<td class="ba">
+															<div class="gb">
+															</div>
+														</td>
+														<td class="bf fl">
+															<div>
+																<h3 class="gc gd ge gf" data-ft="&#123;&quot;tn&quot;:&quot;C&quot;&#125;"><span><strong><a href="/ThePandaSpot/?refid=17&amp;_ft_=top_level_post_id.790460821121466%3Atl_objid.790460821121466%3Athrowback_story_fbid.790460821121466%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790460821121466%2C%22publish_time%22%3A1490513658%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790460821121466%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-4579203896603446176&amp;__tn__=C-R">The Panda Spot</a></strong></span></h3>
+															</div>
+														</td>
+													</tr>
+													</tbody>
+													</table>
+												</div>
+												<div class="gg" style="" data-ft="&#123;&quot;tn&quot;:&quot;*s&quot;&#125;">
+													<span>
+													<p>
+														Sony Facts..
+													</p>
+													</span>
+												</div>
+												<div class="gk gl" data-ft="&#123;&quot;tn&quot;:&quot;H&quot;&#125;">
+													<div class="gy gn" data-ft="&#123;&quot;tn&quot;:&quot;E&quot;&#125;">
+														<a class="gz ha hb" href="/ThePandaSpot/photos/a.175258895974998.1073741829.175251879309033/790460821121466/?type=3&amp;refid=17&amp;_ft_=top_level_post_id.790460821121466%3Atl_objid.790460821121466%3Athrowback_story_fbid.790460821121466%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790460821121466%2C%22publish_time%22%3A1490513658%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790460821121466%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-4579203896603446176&amp;__tn__=EH-R"><img src="https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p200x200/17553433_790460821121466_7901361406371218344_n.jpg?_nc_cat=0&amp;efg=eyJpIjoiYiJ9&amp;_nc_eui2=v1%3AAeElTAjZTpaSa_ivdoZW2nOcpT081iJpK_KnYQcFTuBVcTC7l9ZzKLKom2w5O3df3BIZCrx91fR6dPcFkUshHi_aX2PVhIPSpkTwea-liM_1LRErmnH-3l_iahA1ajxl3rw&amp;oh=5e0b38b0dccc6596d9e027860c5bc931&amp;oe=5B50FEB6" width="208" height="200" class="o" alt="Image may contain: camera"/></a>
+													</div>
+													<div>
+													</div>
+													<div>
+													</div>
+												</div>
+											</div>
+											<div class="gh" data-ft="&#123;&quot;tn&quot;:&quot;*W&quot;&#125;">
+												<div class="k ej">
+													<abbr>26 March 2017 at 14:34</abbr><span aria-hidden="true"> · </span><span class="gi"><span><span class="k">Public</span></span></span>
+												</div>
+												<div class="k ej">
+													<span class="k ej" id="like_790460821121466"><a class="gv gj" aria-label="2 reactions, including Like" href="/ThePandaSpot/photos/a.175258895974998.1073741829.175251879309033/790460821121466/?type=3&amp;refid=17&amp;_ft_=top_level_post_id.790460821121466%3Atl_objid.790460821121466%3Athrowback_story_fbid.790460821121466%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790460821121466%2C%22publish_time%22%3A1490513658%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790460821121466%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-4579203896603446176&amp;__tn__=%2AW-R"><span class="gw"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yY/r/7c6MzgeBwv-.png?_nc_eui2=v1%3AAeHrYnLaHxRiYcNq8pWJkzF4elw6-vY59jPNcnnmqT4u8BNcz5WM0uKdhI1HpDTGplg0Zm1R-2McPLdCvVZGHyPssHIPPwWJg94v1Wst-0B-Pb-IA56bbmCWIY9-uWFrlbw" width="13" height="13" class="o"/></span>2</a><span aria-hidden="true"> · </span><a href="/a/like.php?ul&amp;actionsource=timeline&amp;ft_ent_identifier=790460821121466&amp;av=100023442999051&amp;gfid=AQDNJoCiFphxOc5X&amp;refid=17&amp;_ft_=top_level_post_id.790460821121466%3Atl_objid.790460821121466%3Athrowback_story_fbid.790460821121466%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790460821121466%2C%22publish_time%22%3A1490513658%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790460821121466%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-4579203896603446176&amp;__tn__=%2AW-R">Like</a><span aria-hidden="true"> · </span><a href="/reactions/picker/?ft_id=790460821121466&amp;origin_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;av=100023442999051&amp;_ft_=top_level_post_id.790460821121466%3Atl_objid.790460821121466%3Athrowback_story_fbid.790460821121466%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790460821121466%2C%22publish_time%22%3A1490513658%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790460821121466%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-4579203896603446176&amp;refid=17&amp;__tn__=%2AW-R">React</a></span><span aria-hidden="true"> · </span><a href="/ThePandaSpot/photos/a.175258895974998.1073741829.175251879309033/790460821121466/?type=3&amp;refid=17&amp;_ft_=top_level_post_id.790460821121466%3Atl_objid.790460821121466%3Athrowback_story_fbid.790460821121466%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790460821121466%2C%22publish_time%22%3A1490513658%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790460821121466%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-4579203896603446176&amp;__tn__=%2AW-R" class="gj">Comment</a><span aria-hidden="true"> · </span><a href="/composer/mbasic/?c_src=share&amp;referrer=timeline&amp;target=100023442999051&amp;sid=790460821121466&amp;m=self&amp;exit_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;shared_from_post_id=790460821121466&amp;cwevent=composer_entry&amp;av=100023442999051&amp;view_overview&amp;refid=17&amp;_ft_=top_level_post_id.790460821121466%3Atl_objid.790460821121466%3Athrowback_story_fbid.790460821121466%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790460821121466%2C%22publish_time%22%3A1490513658%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790460821121466%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-4579203896603446176&amp;__tn__=%2AW-R">Share</a><span aria-hidden="true"> · </span><a class="gj" href="/a/profile.php?fan&amp;id=175251879309033&amp;origin=feed_story&amp;rb=1&amp;inlineSuggestionsOnLiking=1&amp;gfid=AQBHguzJzydFUVdT&amp;refid=17&amp;_ft_=top_level_post_id.790460821121466%3Atl_objid.790460821121466%3Athrowback_story_fbid.790460821121466%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790460821121466%2C%22publish_time%22%3A1490513658%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790460821121466%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-4579203896603446176&amp;__tn__=%2AW-R">Like Page</a><span aria-hidden="true"> · </span><a href="/ThePandaSpot/photos/a.175258895974998.1073741829.175251879309033/790460821121466/?type=3&amp;refid=17&amp;_ft_=top_level_post_id.790460821121466%3Atl_objid.790460821121466%3Athrowback_story_fbid.790460821121466%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790460821121466%2C%22publish_time%22%3A1490513658%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790460821121466%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-4579203896603446176&amp;__tn__=%2AW-R#footer_action_list">Full Story</a><span aria-hidden="true"> · </span><a href="/nfx/basic/handle_action/?context_str=%7B%22breadcrumbs%22%3A%5B%5D%2C%22story_location%22%3A%22profile_someone_else%22%2C%22is_from_feed_tombstone%22%3Afalse%2C%22actions_taken%22%3A%22%22%2C%22is_rapid_reporting%22%3Afalse%2C%22is_instream_follow_up%22%3Afalse%2C%22entry_point%22%3A%22unknown%22%2C%22hideable_token%22%3A%22M7c0MDEzsDAyNDQyNDEzq3PNKwnIyC_J98tPSXVKLE5NcU1JTw0uyS-qrKszNDc1MjW0MLc0NrA0MDauqzOoAwA%22%2C%22story_permalink_token%22%3A%22S%3A_I175251879309033%3A790460821121466%3A0%22%7D&amp;is_direct=1&amp;action_key=RESOLVE_PROBLEM&amp;redirect_uri=https%3A%2F%2Fmobile.facebook.com%2FThePandaSpot&amp;ext=1524424174&amp;hash=AeTwEeBUBB7dUXgh&amp;refid=17&amp;_ft_=top_level_post_id.790460821121466%3Atl_objid.790460821121466%3Athrowback_story_fbid.790460821121466%3Apage_id.175251879309033%3Apage_insights.%7B%22175251879309033%22%3A%7B%22role%22%3A1%2C%22page_id%22%3A175251879309033%2C%22post_context%22%3A%7B%22story_fbid%22%3A790460821121466%2C%22publish_time%22%3A1490513658%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22object_fbtype%22%3A22%7D%2C%22actor_id%22%3A175251879309033%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22page_id%22%3A175251879309033%2C%22actor_id%22%3A175251879309033%2C%22role%22%3A1%2C%22post_id%22%3A790460821121466%2C%22share_id%22%3A0%7D%5D%7D%7D%3Athid.175251879309033%3A306061129499414%3A69%3A0%3A1525157999%3A-4579203896603446176&amp;__tn__=%2AW-R">Report</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="w">
+								<a href="/ThePandaSpot?sectionLoadingID=m_timeline_loading_div_1525157999_0_36_timeline_unit%3A1%3A00000000001490513658%3A04611686018427387904%3A09223372036854775803%3A04611686018427387904&amp;unit_cursor=timeline_unit%3A1%3A00000000001490513658%3A04611686018427387904%3A09223372036854775803%3A04611686018427387904&amp;timeend=1525157999&amp;timestart=0&amp;tm=AQAXqrlnhbHP_X49&amp;refid=17">Show more</a>
+							</div>
+							<div class="w">
+								<a href="/ThePandaSpot?v=timeline&amp;timecutoff=1381500198&amp;sectionLoadingID=m_timeline_loading_div_1388563199_1357027200_8_&amp;timeend=1388563199&amp;timestart=1357027200&amp;tm=AQBLUNGQpuIW2ced&amp;refid=17">2013</a>
+							</div>
+							<div class="w">
+								<a href="/ThePandaSpot?v=timeline&amp;timecutoff=1381500198&amp;sectionLoadingID=m_timeline_loading_div_1357027199_1325404800_8_&amp;timeend=1357027199&amp;timestart=1325404800&amp;tm=AQBQX1a2ugU4syqe&amp;refid=17">Founded</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div>
+				</div>
+			</div>
+		</div>
+		<div class="dh">
+			<div class="hc hd">
+				<div id="search_div">
+					<form method="get" action="/search/">
+						<input type="hidden" name="refid" value="17"/><input type="hidden" name="search"/><input type="hidden" name="search_source" value="footer"/>
+						<div class="he hf">
+							<table class="z hg hh" role="presentation">
+							<tbody>
+							<tr>
+								<td class="ba hi fl">
+									<label for="u_0_g"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yf/r/2nxQCXDSL0z.png?_nc_eui2=v1%3AAeEiDpVUnSq3UEbzzvvKAMDLuSSCo6_zWgUl4yKzpJP5j-0O9g6Uf5ZL0QrXWUKXwIDpTsSReO2b35NQTIJO70jxn2MGjE1jyJz6wSCy9PcJzbfrmXIvZoS3C6Kpm8EGsgY" width="20" height="20" class="de o" role="presentation"/></label>
+								</td>
+								<td class="bf hj fl">
+									<input class="bh ep hk hl" aria-label="Search" name="query" id="u_0_g" type="text"/>
+								</td>
+								<td class="ba hm fl">
+									<input value="Search" type="submit" class="q bk bl hn bn"/>
+								</td>
+							</tr>
+							</tbody>
+							</table>
+						</div>
+					</form>
+				</div>
+				<table class="z" role="presentation">
+				<tbody>
+				<tr>
+					<td class="bf ho" style="width:50%">
+						<a class="hp" href="/pages/create/?ref_type=site_footer&amp;ref_component=mbasic_footer&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17">Create Page</a><a accesskey="0" class="hp" href="/help/?ref_component=mbasic_footer&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17">Help</a><a accesskey="7" class="hp" href="/settings/?ref_component=mbasic_footer&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17">Settings &amp; privacy</a><a href="https://lm.facebook.com/l.php?u=http%3A%2F%2Ftsel.me%2Fsmspro&amp;h=ATOeCQObnsC4zYoYXhr-QSZgJy-HIKcVJE7rFU4NkQEc1IahIIqZrqxll6B5C8c861mpyQI9OGC47I5ZsxSABhZ3SuMyg2pyldDsUTKWUc3oaHfGKW8wFISgA1eIP0OPBh5cbqUqelAAogw1Qh9fQIhSuYqFLtKMJ-XZgg" class="hp" target="_blank"><span data-ft="&#123;&quot;tn&quot;:&quot;+s&quot;&#125;">Gak sempat bales SMS? Sekarang kamu bisa set pesan balasan otomatis (auto reply). Hubungi *500*22# </span></a>
+					</td>
+					<td class="bf hq" style="width:50%">
+						<a class="hp" href="/bugnub/?source=Footer&amp;ref_component=mbasic_footer&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17">Report a Problem</a><a accesskey="8" class="hp" href="/policies/?ref_component=mbasic_footer&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17">Terms &amp; Policies</a><a class="hp" href="/logout.php?h=AfcsZ0NKE6ldpm8m&amp;t=1524164974&amp;button_name=logout&amp;button_location=footer&amp;ref_component=mbasic_footer&amp;ref_page=%2Fwap%2Fpages_timeline.php&amp;refid=17">Log Out (Louvian Lyndal)</a>
+					</td>
+				</tr>
+				</tbody>
+				</table>
+				<a class="hr" href="#header">Back to Top</a>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
