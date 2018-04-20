@@ -29,8 +29,7 @@ class Group
 	public function action()
 	{
 		print "Logging in...\n";
-		// $st = $this->fb->login();
-		$st = "login_success";		
+		$st = $this->fb->login();
 		if ($st === "login_success") {
 			$pdo = DB::pdo();
 			$stmt = $pdo->prepare(
@@ -139,7 +138,7 @@ class Group
 				}
 			} while (count($mpg) > 1);
 		} else {
-
+			echo $st."\n";
 		}
 	}
 }

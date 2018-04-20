@@ -7,5 +7,5 @@ define("DB_PASS", "858869123");
 define("DB_NAME", "fb");
 define("DB_PORT", "3306");
 
-define("FB_EMAIL", "louvianlyndal@gmail.com");
-define("FB_PASS", "louvian12345");
+define("FB_EMAIL", "email@gmail.com");
+define("FB_PASS", "password12345");
