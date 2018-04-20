@@ -31,7 +31,7 @@ class FansPage
 			$stmt = $pdo->prepare(
 				"INSERT INTO `posts` (`owner`, `origin`, `post_fbid`, `post_url`, `text`, `files`, `scraped_at`) VALUES (:owner, '".preg_replace("/[^\w\d\.]/", "", $this->fp)."', :post_fbid, :post_url, :_text, :files, :scraped_at);"
 			);
-			print "Getting group info...\n\n\n";
+			print "Getting page info...\n\n\n";
 			$i = 1;
 			do {
 				print "\nLoading page ".$i++."...\n";
