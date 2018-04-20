@@ -16,5 +16,5 @@ php group.php [group_id]
 
 # Profile and Fanspage posts scraper
 ```shell
-php timeline_scraper [user_id or username]
+php timeline_scraper.php [user_id or username]
 ```
