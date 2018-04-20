@@ -5,6 +5,6 @@ require __DIR__."/vendor/autoload.php";
 
 use Facebook\Run\FansPage;
 
-$fp = "ammarfaizi2";
+$fp = $argv[1];
 
 FansPage::run($fp);
