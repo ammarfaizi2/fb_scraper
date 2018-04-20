@@ -103,7 +103,7 @@ class FansPage
 						$text = null;
 					}
 
-					print "OK\n";
+					
 					$data[] = $in = [
 						"owner" => $owner,
 						"post_fbid" => $fbid,
@@ -112,7 +112,8 @@ class FansPage
 						"_text" => $text,
 						"scraped_at" => date("Y-m-d H:i:s")
 					];
-					$stmt->execute($in);
+					$stmt->execute($in) and print "OK" or print "Skipped due to duplicate post";
+					print "\n";
 				}
 				
 				
