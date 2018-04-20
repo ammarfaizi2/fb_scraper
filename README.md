@@ -5,7 +5,8 @@ git clone https://github.com/ammarfaizi2/fb_scraper
 cd fb_scraper
 composer install -vvv
 ```
-2. Edit config.php
+2. Prepare your database mysql and import db.sql
+3. Edit config.php
 
 
 # Group posts scraper
