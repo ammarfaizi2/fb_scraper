@@ -24,24 +24,13 @@ class FansPage
 	public function action()
 	{
 		print "Logging in...\n";
-		$st = $this->fb->login();
+		// $st = $this->fb->login();
 		$st = "login_success";
 		if ($st === "login_success") {
 			print "Login success!\n\n";
-			$pdo = DB::pdo();
-			$stmt = $pdo->prepare(
-				"INSERT INTO `posts` (`owner`, `post_fbid`, `post_url`, `text`, `files`, `scraped_at`) VALUES (:owner, :post_fbid, :post_url, :_text, :files, :scraped_at);"
-			);
 			do {
 				print "Getting page timeline...\n\n\n";
 				$st = $this->fb->go($this->fp);
-				if ($pg = preg_match("/<a href=\"(.*)\">Show more/Usi", $st["out"], $mpg)) {
-					print "\n\nLoading next page...\n";
-					$pg = explode("<a href=\"", $mpg[1]);
-					$pg = end($pg);
-					$pg = $this->fb->se($pg);
-					$this->fp = $pg;
-				}
 				preg_match_all("/href=\"([^\#].*)\"/U", $st["out"], $m);
 				$m = $m[1];
 				$urls = [];
@@ -65,6 +54,10 @@ class FansPage
 				}
 				$urls = array_values(array_unique($urls));
 				$data = [];
+				$pdo = DB::pdo();
+				$stmt = $pdo->prepare(
+					"INSERT INTO `posts` (`owner`, `post_fbid`, `post_url`, `text`, `files`, `scraped_at`) VALUES (:owner, :post_fbid, :post_url, :_text, :files, :scraped_at);"
+				);
 				foreach($urls as $url) {
 					print "Collecting data from ".str_replace("m.facebook", "www.facebook", $url)." ...";
 					$st = $this->fb->go($url);
@@ -112,10 +105,15 @@ class FansPage
 					];
 					$stmt->execute($in);
 				}
-				
-				
-			} while (count($mpg) > 1);
-			unset($stmt);
+				unset($stmt);
+				if ($pg = preg_match("/<a href=\"(.*)\">Show more/Usi", $st["out"], $m)) {
+					print "\n\nLoading next page...\n";
+					$pg = explode("<a href=\"", $m[1]);
+					$pg = end($pg);
+					$pg = $this->fb->se($pg);
+					$this->fp = $pg;
+				}
+			} while (count($m) > 1);
 			print "\n\nTerminated!\n";
 		} else {
 			print $st."\n";
