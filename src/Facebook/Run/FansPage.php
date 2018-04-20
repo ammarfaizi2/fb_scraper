@@ -115,7 +115,6 @@ class FansPage
 				$stmt->execute($in);
 			}
 			unset($stmt);
-			print json_encode($data, 128 | JSON_UNESCAPED_SLASHES);
 		} else {
 			print $st."\n";
 		}
