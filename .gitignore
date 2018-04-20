@@ -1,2 +1,4 @@
 /vendor/
 /cookie.txt
+/config.php
+/config.php.example

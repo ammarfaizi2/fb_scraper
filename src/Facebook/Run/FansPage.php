@@ -29,7 +29,7 @@ class FansPage
 			print "Login success!\n\n";
 			$pdo = DB::pdo();
 			$stmt = $pdo->prepare(
-				"INSERT INTO `posts` (`owner`, `post_fbid`, `post_url`, `text`, `files`, `scraped_at`) VALUES (:owner, :post_fbid, :post_url, :_text, :files, :scraped_at);"
+				"INSERT INTO `posts` (`owner`, `origin`, `post_fbid`, `post_url`, `text`, `files`, `scraped_at`) VALUES (:owner, '".preg_replace("/[^\w\d\.]/", "", $this->fp)."', :post_fbid, :post_url, :_text, :files, :scraped_at);"
 			);
 			print "Getting group info...\n\n\n";
 			$i = 1;
