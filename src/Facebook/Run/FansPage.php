@@ -33,12 +33,11 @@ class FansPage
 				"INSERT INTO `posts` (`owner`, `post_fbid`, `post_url`, `text`, `files`, `scraped_at`) VALUES (:owner, :post_fbid, :post_url, :_text, :files, :scraped_at);"
 			);
 			print "Getting page timeline...\n\n\n";
-			$i = 0;
+			$i = 1;
 			do {
-				print "\n";
+				print "Loading page ".$i++."...\n\n";
 				$st = $this->fb->go($this->fp);
 				if ($pg = preg_match("/<a href=\"(.*)\">Show more/Usi", $st["out"], $mpg)) {
-					$i and print "\n\nLoading next page...\n";
 					$pg = explode("<a href=\"", $mpg[1]);
 					$pg = end($pg);
 					$pg = $this->fb->se($pg);
@@ -66,6 +65,7 @@ class FansPage
 					}
 				}
 				$urls = array_values(array_unique($urls));
+				unset($urls[0]);
 				$data = [];
 				foreach($urls as $url) {
 					print "Collecting data from ".str_replace("m.facebook", "www.facebook", $url)." ...";
