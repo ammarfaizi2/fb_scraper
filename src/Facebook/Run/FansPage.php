@@ -25,14 +25,13 @@ class FansPage
 	{
 		print "Logging in...\n";
 		$st = $this->fb->login();
-		$st = "login_success";
 		if ($st === "login_success") {
 			print "Login success!\n\n";
 			$pdo = DB::pdo();
 			$stmt = $pdo->prepare(
 				"INSERT INTO `posts` (`owner`, `post_fbid`, `post_url`, `text`, `files`, `scraped_at`) VALUES (:owner, :post_fbid, :post_url, :_text, :files, :scraped_at);"
 			);
-			print "Getting page timeline...\n\n\n";
+			print "Getting group info...\n\n\n";
 			$i = 1;
 			do {
 				print "\nLoading page ".$i++."...\n";
