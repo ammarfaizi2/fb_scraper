@@ -32,11 +32,13 @@ class FansPage
 			$stmt = $pdo->prepare(
 				"INSERT INTO `posts` (`owner`, `post_fbid`, `post_url`, `text`, `files`, `scraped_at`) VALUES (:owner, :post_fbid, :post_url, :_text, :files, :scraped_at);"
 			);
+			print "Getting page timeline...\n\n\n";
+			$i = 0;
 			do {
-				print "Getting page timeline...\n\n\n";
+				print "\n";
 				$st = $this->fb->go($this->fp);
 				if ($pg = preg_match("/<a href=\"(.*)\">Show more/Usi", $st["out"], $mpg)) {
-					print "\n\nLoading next page...\n";
+					$i and print "\n\nLoading next page...\n";
 					$pg = explode("<a href=\"", $mpg[1]);
 					$pg = end($pg);
 					$pg = $this->fb->se($pg);
